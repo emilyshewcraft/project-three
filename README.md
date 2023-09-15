@@ -31,7 +31,11 @@
 -------------------------------------------------------------------------------
 
 ## Research Questions
-1. 
+1. To what degree over time have school shooting incidents increased since 1970?
+2. How does the level of education (high, middle, elementary) affect the incident rate?
+3. Does the population of the area affect incident rates?
+4. Have changing political power structures affected the occurrence of these incidents over time?
+5. Has gun control legislation impacted the recurrence of school shootings? 
 
 -------------------------------------------------------------------------------
 
@@ -48,10 +52,10 @@ Slidedeck
 -------------------------------------------------------------------------------
 
 ## Task Delineation
-* Emily - Research, 
+* Emily - Research, Project Proposal,
 * Callie - Research, Project Proposal,
-* Daniel - Research,
-* Dianna - Research,
+* Daniel - Research, Project Proposal,
+* Dianna - Research, Project Proposal,
 * Louis - Research,
 
 -------------------------------------------------------------------------------
@@ -66,5 +70,7 @@ Slidedeck
 -------------------------------------------------------------------------------
 
 ### Conclusion
+
+Possible drawbacks-the COVID-19 pandemic may show skewed data due to lower in-person attendance rates 
 
 -------------------------------------------------------------------------------
