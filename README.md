@@ -3,7 +3,7 @@
 -------------------------------------------------------------------------------
 
 ## Project Title:
-    Tile Here
+    K-12 School Shooting Incidents: 1970-2022
 -------------------------------------------------------------------------------
 
 ## Team Members:
@@ -43,15 +43,16 @@ K-12 School Shooting Database
 (https://k12ssdb.org/)
 
 Slidedeck
+(https://docs.google.com/presentation/d/1tKL6uN-uL0g0_6WM0vtvzGyeL-67J5bfYpWmnnQzj2o/edit#slide=id.p)
 
 -------------------------------------------------------------------------------
 
 ## Task Delineation
-* Emily - 
-* Callie - 
-* Daniel - 
-* Dianna -
-* Louis - 
+* Emily - Research, 
+* Callie - Research, Project Proposal,
+* Daniel - Research,
+* Dianna - Research,
+* Louis - Research,
 
 -------------------------------------------------------------------------------
 
