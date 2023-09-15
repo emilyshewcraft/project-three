@@ -17,11 +17,13 @@
 
 ## Project Description/Outline
 ### Data Collection and Analyses
-1. Import, read, and display the data found in Kaggle
-2. Clean and prepare data with ETL functions
+1. Import data found in Kaggle
+2. Clean and prepare data with ETL functions in Jupyter Notebook
 3. Compare variables to address research questions
-4. Store data in a database and utilize Python Flask API
-5. Create interactive visualizations of analyses
+4. Store data in a SQL database
+5. Utilize Python Flask API to tie data to website
+6. Incorporate HTML/CSS code to build base site structure
+7. Create interactive visualizations using JavaScript code
 
 ### Presentation and Summarization 
 4. Create and present a formal visual presentation, including interactive visual elements
@@ -53,11 +55,11 @@ Slidedeck
 -------------------------------------------------------------------------------
 
 ## Task Delineation
-* Emily - Research, Project Proposal,
-* Callie - Research, Project Proposal,
-* Daniel - Research, Project Proposal,
-* Dianna - Research, Project Proposal,
-* Louis - Research,
+* Emily - Research, Project Proposal, Clean WEAPONS CSV
+* Callie - Research, Project Proposal, Clean VICTIM CSV
+* Daniel - Research, Project Proposal, Clean SHOOTER CSV
+* Dianna - Research, Project Proposal, Clean INCIDENT CSV
+* Louis - Research, 
 
 -------------------------------------------------------------------------------
 
