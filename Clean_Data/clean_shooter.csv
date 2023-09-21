@@ -1,0 +1,2286 @@
+Incident_ID,schoolaffiliation,age_cat,shooterdied
+19700105DCHIW,Student,Teen,No
+19700105DCSOW,Student,,No
+19700105DCUNW,Student,,No
+19700206OHJOC,Student,Teen,No
+19700323CADAL,Student,Teen,No
+19700323CADAL,Police Officer/SRO,Adult,No
+19700415ARPIP,No Relation,Teen,No
+19700415ARPIP,No Relation,Teen,No
+19700415ARPIP,No Relation,Adult,No
+19700415ARPIP,No Relation,Adult,No
+19700415ARPIP,No Relation,Adult,No
+19700415ARPIP,No Relation,Adult,No
+19700415ARPIP,No Relation,Adult,No
+19700415ARPIP,No Relation,Adult,No
+19700422DEPIW,Student,Teen,No
+19700508FLCAD,Student,Teen,No
+19700515UTBEO,Student,Teen,No
+19700828TXRIE,Student,Teen,No
+19700828TXRIE,Student,Teen,No
+19700831FLALM,No Relation,Adult,No
+19700914TNHAN,Student,Teen,No
+19700924IDMEM,Unknown,,No
+19700928IACED,Student,Teen,No
+19701005MIPOD,Student,Teen,No
+19701019TNBOM,Student,Teen,No
+19701020TNWAN,Student,Teen,No
+19701027OHAPM,Student,Teen,No
+19701120ILHAC,Student,Teen,No
+19701212WIXAA,Police Officer/SRO,Adult,No
+19710202PAMOP,Student,Teen,No
+19710205PAJOW,Student,Teen,No
+19710210TXOAD,Student,Teen,No
+19710225OHFRC,Student,Teen,No
+19710309AZROT,Student,Teen,No
+19710405PAWIH,Student,Teen,No
+19710527MIBES,Student,Teen,No
+19710602NYEAE,Student,Teen,Yes
+19710820PAMOM,Security Guard,Adult,No
+19710909TXDUL,Student,Teen,No
+19710924NYMCB,Student,Teen,No
+19710928MNCEM,No Relation,Teen,No
+19710929VAPEP,Student,Teen,No
+19711028MDCIB,Student,,No
+19711029MDFOB,Former Student,Teen,No
+19711029MDFRB,Student,Teen,No
+19711029MDFRB,Student,Teen,No
+19711103NMCAC,Former Student,Adult,Yes
+19711108OKGRT,Other Staff,Adult,No
+19711124MDEDB,Student,Teen,No
+19711206CALOL,Student,Teen,No
+19711206CALOL,Student,Teen,No
+19711213MDCAB,Student,Teen,No
+19720105DCPAW,Teacher,Adult,No
+19720124OHSTS,Student,Teen,No
+19720126MDGWB,Student,Teen,No
+19720126MDHAB,Student,Teen,No
+19720214ILCAC,Student,,No
+19720215ILKEC,Nonstudent,,Yes
+19720228CAMAL,Student,Teen,No
+19720313TXUNH,Student,Teen,No
+19720412LAEAG,Teacher,Adult,Yes
+19720504NVLIR,Teacher,Adult,No
+19720505INDEI,Student,Teen,No
+19720914TXFRH,Student,Teen,No
+19720915MISAS,Student,Teen,No
+19720919TXCUH,Teacher,Adult,No
+19720921OHTHA,Former Student,Teen,No
+19721111CAJEL,Other Student,Teen,No
+19721111CAJEL,Other Student,Teen,No
+19721127MIPOP,Student,Teen,No
+19721129FLMIM,Unknown,Teen,No
+19730105NCSOS,Student,Teen,No
+19730118CAJOL,Unknown,Teen,No
+19730118CAJOL,Unknown,Teen,No
+19730131NCCUB,Student,Teen,No
+19730212ALBOM,No Relation,Teen,No
+19730226VAARR,Student,Teen,No
+19730405CALOL,Student,,No
+19730501OHRAY,Student,Teen,No
+19730928CAWIL,Student,Teen,No
+19731002ILELA,Student,Teen,Yes
+19731019MOBES,Student,Teen,No
+19731023MOSUS,Unknown,Teen,No
+19731023MOSUS,Unknown,Teen,No
+19731023OHBAB,Student,Teen,No
+19731024MNCEM,Student,Teen,No
+19731031MONOS,No Relation,Teen,No
+19731108ILWOC,Student,Teen,No
+19731109CALOL,Unknown,Teen,No
+19731206CAFRL,Student,,No
+19731213OHHUC,Student,Teen,No
+19740117ILBAC,Former Student,Teen,No
+19740122CALOL,No Relation,Teen,No
+19740207CAJAO,No Relation,Adult,No
+19740322INBRB,Student,Teen,No
+19740402CTSTB,Unknown,,No
+19740510TNCHR,Student,Teen,No
+19740519FLHIO,Intimate Relationship,Adult,No
+19740923CAJED,Student,Teen,No
+19740923CAJED,Student,Teen,No
+19740923CAJED,Student,Teen,No
+19740925CASAL,Student,Teen,No
+19741007LADEH,Student,Teen,No
+19741021MDDOB,No Relation,Teen,No
+19741118SCCAC,No Relation,,No
+19741121ARBOL,Student,Teen,No
+19741125SCCAC,Student,Teen,No
+19741125SCCAC,Student,Teen,No
+19741218CAMAL,No Relation,Teen,No
+19741230NYOLO,Student,Teen,No
+19750207NYBOM,Student,Teen,No
+19750224NJSTP,Former Student,Adult,No
+19750312TXJOH,Student,Teen,No
+19750318MOSUS,Unknown,Teen,No
+19750321OHPAD,No Relation,Teen,No
+19750321VAFAR,No Relation,Teen,No
+19750515MOROS,Student,Teen,No
+19750527MIPID,Student,Child,No
+19750709ILDEC,Intimate Relationship,Adult,No
+19750711MOCES,Student,Teen,No
+19750911OKGRO,Student,Teen,No
+19751001NMHEA,Unknown,Adult,No
+19751024GAMUA,Student,Teen,No
+19751218CAORS,Student,Teen,No
+19760101AZCAP,Unknown,,No
+19760123OHCOC,Student,Teen,No
+19760206FLESP,Unknown,,No
+19760212MIMUD,Other Student,Teen,No
+19760212MIMUD,Other Student,Teen,No
+19760212MIMUD,Other Student,Teen,No
+19760212MIMUD,Other Student,Teen,No
+19760212MIMUD,Other Student,Teen,No
+19760212MIMUD,Other Student,Teen,No
+19760412TXODF,Student,Teen,No
+19760513MOMAS,Student,Teen,No
+19760514FLPAW,Former Student,Teen,No
+19760602MDMTC,Unknown,,No
+19760920NCGUG,No Relation,Adult,Yes
+19761110MIBUD,Intimate Relationship,Adult,No
+19761210MOFRS,Student,Child,No
+19770113ILOLB,Student,Teen,No
+19770209ILFEC,Student,Teen,No
+19770228MOROS,Student,Teen,No
+19770228TXHOA,Student,Teen,No
+19770308ILCOE,Student,Teen,No
+19770321NYPAH,Other Staff,Teen,No
+19770407TXWHW,Student,Teen,No
+19770418TNPIN,Unknown,Adult,No
+19770517FLSTC,No Relation,Adult,No
+19770622ILHOC,Unknown,Teen,No
+19770711COSOC,Student,Teen,No
+19771129MOHAS,Former Student,Teen,No
+19771129MOVAS,Student,Teen,No
+19771209CAPES,Intimate Relationship,Adult,No
+19771212FLWEW,Other Staff,Adult,No
+19771215MABLC,Unknown,,No
+19780111KYCHH,Student,Teen,No
+19780209WVHAS,Student,Teen,No
+19780222MIEVL,Student,Teen,No
+19780309CAMOS,No Relation,Teen,No
+19780329TNGAN,Other Staff,Adult,No
+19780414MIFOD,Student,Teen,No
+19780426TXPAD,Relative,Adult,No
+19780428ILRIN,Student,Teen,No
+19780518TXMUA,Student,Teen,No
+19780519PADOP,Unknown,,No
+19780607DEDOD,Student,Teen,No
+19780610MAWEW,Student,Teen,No
+19781017ALLAL,Student,Teen,No
+19781017MOUNU,Former Student,Teen,No
+19781129NYPAN,Student,Teen,No
+19781214CTWIN,No Relation,Teen,No
+19790129CAGRS,No Relation,Teen,No
+19790314FLMCM,Unknown,Teen,No
+19790328CALOL,Unknown,Teen,No
+19790416WIWIM,Other Staff,Adult,No
+19790425PAMAH,Unknown,,No
+19790426TXAZA,Student,Teen,No
+19790614OHNEN,Unknown,Teen,No
+19790926LACAN,Student,Teen,No
+19790926LACAN,Student,Teen,No
+19790928MACHC,Unknown,Teen,No
+19790928MACHC,Unknown,Teen,No
+19791023MOOFS,Student,Teen,No
+19791105INWAI,Student,Teen,No
+19791130TXUNL,Student,Teen,No
+19791203MDEAB,Student,Teen,No
+19791203MDEAB,Student,Teen,No
+19791203MDEAB,Student,Teen,No
+19791203MDEAB,Student,Teen,No
+19791221MOBLS,Student,Teen,No
+19800107ARSTS,Student,Teen,No
+19800129VALAW,Student,Teen,No
+19800201DCLAW,Student,Child,No
+19800207TXVAL,Student,Child,No
+19800211INARI,Student,Teen,No
+19800211INARI,Student,Teen,No
+19800215MSHUM,Intimate Relationship,Adult,No
+19800320TXJLD,Unknown,Adult,No
+19800331MDFRB,Former Student,Teen,No
+19800417VACAC,Intimate Relationship,Adult,No
+19800530NYCLB,Student,Teen,No
+19800902CAWHL,No Relation,Teen,No
+19800908FLFOJ,Student,Teen,No
+19800910DCSPW,Student,Teen,No
+19800911ALJOM,Teacher,Adult,No
+19800926CTBRB,Former Student,Teen,No
+19801013ALCET,Student,Teen,No
+19801031ALHUH,Student,Teen,Yes
+19801117TXEAF,Student,Teen,No
+19801212ALPAB,No Relation,Teen,No
+19801212OHLOL,Student,Teen,No
+19810121OHWIB,Student,Teen,No
+19810122MDFRB,Student,Teen,No
+19810210ARLIL,Student,Teen,No
+19810210CAMAL,Unknown,Teen,No
+19810303INMAI,Student,Teen,No
+19810328FLDIF,Student,Teen,No
+19810402OHALC,Student,Teen,No
+19810407MSPOP,Unknown,,No
+19810515LANEN,Other Staff,Adult,No
+19810901PAWIP,Unknown,,No
+19810904NMHOS,Student,Teen,No
+19810908FLSTW,Student,,No
+19810913MDABA,Police Officer/SRO,Adult,No
+19811013CTHAH,Student,Teen,No
+19811209NYGEB,Unknown,,No
+19811216TXUNH,Student,Teen,No
+19811223NYJAB,Student,Teen,No
+19820205TNHAM,Unknown,,No
+19820208MADOD,Student,Teen,No
+19820209LAJON,Former Student,Teen,No
+19820209LAJON,Former Student,Teen,No
+19820315ORSPS,Student,Teen,Yes
+19820317OHLOL,Student,Teen,No
+19820319NVVAL,Student,Teen,No
+19820407CODEL,Student,Teen,No
+19820415MDFOB,Unknown,Teen,No
+19820429GARUE,Student,Teen,No
+19820430FLANA,Student,Teen,No
+19820527NVGAL,Unknown,Teen,No
+19820527NVGAL,Unknown,Teen,No
+19820527NVGAL,Unknown,Teen,No
+19820910VALAB,Former Student,Teen,No
+19820915ARSOP,Student,,No
+19821101NYELE,Student,Teen,No
+19821108MICOD,Student,Teen,No
+19821112MSWIJ,Intimate Relationship,Teen,Yes
+19821206ALHUH,Student,Teen,Yes
+19821220MIFID,Unknown,Adult,No
+19830118TXJOH,Student,,Yes
+19830120MOPAB,Student,Teen,Yes
+19830128MDWIB,Student,Teen,No
+19830130TXWEC,Unknown,,No
+19830131FLDED,Student,Teen,No
+19830201TNRIM,Student,Teen,No
+19830202NMALA,Unknown,,No
+19830331ILSAC,Student,Child,No
+19830421MOBES,Unknown,Adult,No
+19830516NYBRN,Former Teacher,Adult,Yes
+19830516TXLAD,No Relation,Adult,No
+19830518FLNOM,No Relation,Adult,No
+19830523OHMAM,Student,Teen,No
+19830526PAGRJ,Student,Teen,Yes
+19830912CAMAC,Student,Teen,No
+19830912CAMAC,Student,Teen,No
+19830912MIHED,Student,Teen,No
+19830921MDWAB,Student,Teen,No
+19830930TXTET,Former Student,Teen,No
+19831007CACOL,Gang Member,,No
+19831022MDCAB,Unknown,Teen,No
+19831108MIHIH,Student,Teen,No
+19831117ILJAC,Gang Member,Teen,No
+19831118MDHAB,Student,Teen,No
+19831202INCRC,Student,Teen,No
+19831216ILBOR,Student,Teen,No
+19840105MDLAB,Unknown,,No
+19840206KYCEL,Student,Teen,No
+19840221TXSHH,Student,Teen,No
+19840224CA49L,Former Student,Adult,Yes
+19840405LACLC,Student,Teen,No
+19840420MIPRD,Student,Teen,No
+19840426NCROW,Student,Child,No
+19840515MTCMG,Student,Teen,No
+19840517IASOP,Student,Teen,Yes
+19840517TXBOH,Student,Teen,Yes
+19840518CANON,Student,Teen,No
+19840522OHCLC,Student,Teen,No
+19840710MIMUD,No Relation,Adult,No
+19840831LABOS,Gang Member,,No
+19840928TXMIH,Unknown,,No
+19840928TXRIN,Former Student,,No
+19841021PAWYE,Unknown,,No
+19841022MICED,Student,Teen,No
+19841024MISOD,Student,Teen,No
+19841024OHWEC,Parent,Adult,No
+19841030SCPEP,Intimate Relationship,,No
+19841031LAEAG,Student,Teen,No
+19841109CTWIN,Student,Teen,No
+19841126MDMIR,Unknown,Teen,No
+19841207MOEDS,Student,Teen,No
+19850118TXARA,Student,Teen,Yes
+19850121KSGOG,Student,Teen,No
+19850126MASTB,Student,Teen,No
+19850205CTAIH,Intimate Relationship,Teen,No
+19850416TXMAA,Police Officer/SRO,Adult,No
+19850516FLPAB,Student,Teen,No
+19850724TXHIH,No Relation,Adult,No
+19850904VAEAR,Student,,No
+19850909TXWHH,No Relation,Teen,No
+19850920TXLAC,Student,Teen,No
+19850925OHTRT,Student,Teen,No
+19851008MDLAB,Student,Teen,No
+19851008MDLAB,Relative,Adult,No
+19851008MDLAB,Former Student,Teen,No
+19851018MIMUD,Unknown,,No
+19851022OHSOG,Police Officer/SRO,Adult,No
+19851126WASPS,Student,Teen,Yes
+19851127ALCHB,Student,Teen,Yes
+19851203NHCOC,Former Student,Teen,Yes
+19851209PAARP,No Relation,Adult,No
+19851210CTPOP,Student,Teen,No
+19860109NCNOD,Student,Teen,No
+19860117CAVAL,Student,Teen,No
+19860129MDLAB,Student,Teen,No
+19860224LABOS,Student,Teen,Yes
+19860306ILTHD,Student,Teen,No
+19860423FLCHM,Student,Teen,No
+19860429MOSES,Student,Teen,No
+19860509NCPIF,Student,Teen,No
+19860515GACAA,Student,Teen,No
+19860516WYCOC,No Relation,Adult,Yes
+19860516WYCOC,No Relation,Adult,No
+19860517TNMAN,Student,Teen,No
+19860912CAFAL,Student,Teen,No
+19860918CABEB,Student,Teen,No
+19861003CAMOM,Nonstudent Using Athletic Facilities/Attending Game,Teen,No
+19861003CAMOM,Nonstudent Using Athletic Facilities/Attending Game,Teen,No
+19861003CAMOM,Nonstudent Using Athletic Facilities/Attending Game,Teen,No
+19861008TXSOD,Student,Teen,No
+19861204MTFEL,Student,Teen,No
+19870114CALOL,Student,Teen,No
+19870123MIRED,Student,Teen,No
+19870210ARDAD,Student,Teen,Yes
+19870213AZORM,Student,Teen,No
+19870224NYMON,No Relation,Adult,No
+19870224NYMON,No Relation,Adult,No
+19870302MODED,Student,,Yes
+19870306TXRIE,No Relation,Teen,No
+19870306TXRIE,No Relation,Adult,No
+19870330CAPAS,No Relation,Adult,Yes
+19870416MIMUD,Student,Teen,No
+19870430ORGRP,Student,Teen,No
+19870503INPII,Unknown,Teen,No
+19870506ARMAJ,Student,Teen,No
+19870506FLLET,Student,Teen,Yes
+19870513ILOAO,Student,Teen,No
+19870928ILILL,Student,Teen,No
+19871014ILDUC,Student,Teen,No
+19871030NCSOK,Relative,Teen,No
+19871104MISOD,No Relation,,No
+19871114FLCLC,Student,Teen,Yes
+19871130TXPES,Intimate Relationship,Adult,Yes
+19871202FLENJ,Student,Teen,No
+19871204NYEAN,Student,Teen,No
+19871215NYGRB,Student,Teen,No
+19871216TXMAK,Student,Teen,Yes
+19880105PASPS,Nonstudent Using Athletic Facilities/Attending Game,Teen,No
+19880106FLGAT,Student,Teen,No
+19880108PACRM,Student,Teen,No
+19880120LASIR,Student,Teen,No
+19880129TXREA,Student,Teen,No
+19880202ALWET,No Relation,Adult,No
+19880202ALWET,No Relation,Adult,No
+19880211FLPIL,Student,Teen,No
+19880211FLPIL,Student,Teen,No
+19880226RIBRB,Student,Teen,No
+19880304MILED,Student,Teen,No
+19880323CACAS,Unknown,,No
+19880324TXTRA,Student,Teen,No
+19880505ILMAC,Student,Teen,No
+19880516FLFOF,Student,Teen,No
+19880520ILHUW,Nonstudent,Adult,Yes
+19880531NYPUB,No Relation,Adult,No
+19880602MSWIJ,Former Student,Adult,No
+19880602MSWIJ,Former Student,Adult,No
+19880602MSWIJ,Former Student,Adult,No
+19880617MIJOD,Student,Teen,No
+19880630HIAIO,Student,Teen,No
+19880710WISIM,Nonstudent Using Athletic Facilities/Attending Game,Adult,No
+19880711MSLAJ,Student,Teen,No
+19880831MICED,Former Student,Teen,No
+19880831MICED,Former Student,Teen,No
+19880831SCWEA,No Relation,Teen,No
+19880902GAGLA,Nonstudent Using Athletic Facilities/Attending Game,,No
+19880902NCGAC,Student,Teen,No
+19880903TXLID,No Relation,Teen,No
+19880903TXLID,No Relation,Teen,No
+19880903TXLID,No Relation,Teen,No
+19880903TXLID,No Relation,Teen,No
+19880922ILMOC,No Relation,Adult,Yes
+19880926SCOAG,Former Student,Teen,No
+19881003FLMAM,Unknown,,No
+19881004FLJEJ,Unknown,,No
+19881004LAISB,Teacher,Adult,No
+19881005MDEDB,Student,Teen,No
+19881006ALMOM,Relative,Adult,No
+19881007MDSOB,Student,Teen,No
+19881007TXDIP,Student,Child,No
+19881101FLPAJ,Student,Teen,No
+19881107UTGLS,Student,Teen,No
+19881122TXABA,Student,Teen,No
+19881216VAATV,Student,Teen,No
+19890105ARHEL,Unknown,Teen,No
+19890117CACLS,Former Student,Adult,Yes
+19890126DCWOW,Student,Teen,No
+19890126DCWOW,Student,Teen,No
+19890210UTTHK,Student,,No
+19890303INWIG,Student,Teen,No
+19890426TXAMD,Nonstudent,Teen,No
+19890911AZDYE,Student,,No
+19890918KYJAM,Student,Teen,No
+19891005CALOA,Student,Teen,No
+19891031TXOLD,Student,Teen,No
+19891113NYALN,Student,Teen,No
+19891115TXWOA,Student,Teen,No
+19891122CACHO,Unknown,Teen,No
+19891204LACAS,Student,Teen,No
+19891205PASEM,Student,Teen,Yes
+19891205TXWWD,Unknown,Teen,No
+19891212SCCHC,Former Student,,No
+19900116RICEP,Student,Teen,No
+19900220OHTAC,Student,Teen,No
+19900327NYNEB,Student,Teen,No
+19900403TXSKD,Student,Teen,No
+19900504CAMOE,Student,Teen,No
+19900520TNHIC,Teacher,Adult,No
+19900531TXSUF,No Relation,Teen,No
+19900824NCMYC,Unknown,,No
+19900827NVELL,Student,Teen,No
+19900827TXWHD,Unknown,,No
+19900911TXSAS,Student,,No
+19900922ALLEB,Unknown,,No
+19901002TXWHD,No Relation,Adult,No
+19901029INCHC,Student,Teen,No
+19901030TXNAG,Parent,Adult,No
+19901213LASAS,Unknown,,No
+19910108TXRIR,Student,Teen,Yes
+19910117TXHOD,Unknown,,No
+19910117TXHOD,Unknown,,No
+19910219LABON,No Relation,Teen,No
+19910313ALSES,Student,Teen,No
+19910314SCWOP,Former Student,Teen,No
+19910314SCWOP,Former Student,,No
+19910325NCGAC,Former Student,Teen,No
+19910411SCNOR,Student,Teen,Yes
+19910423CARAC,Unknown,Teen,No
+19910423CARAC,Unknown,Teen,No
+19910423MSHUB,Student,Teen,No
+19910510OHFRC,Student,Teen,No
+19910516KSCOK,Student,Teen,No
+19910521CAROS,No Relation,Teen,No
+19910521FLSCP,Student,Teen,No
+19910722CAWEL,Unknown,,No
+19910730CAENC,Student,,No
+19910913TXMAH,Nonstudent Using Athletic Facilities/Attending Game,,No
+19910917ILWOC,Student,Teen,No
+19910918TXCRC,Student,Teen,No
+19911002TXSPH,Student,Teen,No
+19911004CADOL,Unknown,,No
+19911004CAROL,Nonstudent Using Athletic Facilities/Attending Game,,No
+19911009NYJAB,Unknown,,No
+19911011MAMAR,Unknown,Teen,No
+19911015NHMOS,Former Student,Teen,No
+19911015SCWOW,Student,Teen,No
+19911015TXGEP,No Relation,Teen,No
+19911023TXOAD,Relative,Teen,No
+19911106LAWAN,Student,Teen,No
+19911111TXYSE,Former Student,Teen,No
+19911111TXYSE,Former Student,Teen,No
+19911111TXYSE,Former Student,Teen,No
+19911111TXYSE,Former Student,Teen,No
+19911114TXMIH,Student,Teen,No
+19911125NYTHB,Student,Teen,No
+19911226NCWHW,Nonstudent Using Athletic Facilities/Attending Game,Teen,No
+19920128LAFRG,Student,Teen,No
+19920131LAFRG,Student,Teen,No
+19920206OKDOO,Student,Teen,No
+19920207VABON,No Relation,,No
+19920226NYTHB,Student,Teen,No
+19920305OHHAO,Student,,No
+19920331LAOPA,Student,Teen,No
+19920409FLFOF,Student,Teen,No
+19920417TXLID,Unknown,,No
+19920501CALIO,Former Student,Teen,No
+19920514CASIN,Student,Teen,No
+19920514TXHUH,Student,Teen,No
+19920529CAVEL,Unknown,,No
+19920606CAMEM,Student,Teen,No
+19920911TXPAA,Student,Teen,No
+19920928CAHIS,Student,Teen,No
+19920928CAHIS,Student,Teen,No
+19920928CAHIS,Student,Teen,No
+19920930TXHOH,Student,Teen,No
+19921013AZDET,No Relation,Teen,No
+19921019NYEVB,Student,,No
+19921104MIFID,Student,Minor,No
+19921104MIFID,Student,Teen,No
+19921104MIFID,Student,Teen,No
+19921104MIMAD,Unknown,,No
+19921104MIMUD,No Relation,Teen,No
+19921104MIMUD,No Relation,Teen,No
+19921104MIMUD,No Relation,Teen,No
+19921110ILSHC,Student,Teen,Yes
+19921113TXLAC,Intimate Relationship,Adult,Yes
+19921116ALFAB,Student,Teen,No
+19921120ILTIC,Student,Teen,No
+19921124ALROM,Student,Teen,No
+19921130ILORC,Student,Teen,No
+19921203ILWOC,Nonstudent Using Athletic Facilities/Attending Game,Adult,No
+19921203ILWOC,Nonstudent Using Athletic Facilities/Attending Game,Adult,No
+19921214NYWAW,Student,Teen,No
+19930105NYBRB,Rival School Student,Teen,No
+19930105NYBRB,Rival School Student,Teen,No
+19930112FLNOM,Student,Teen,No
+19930118KYEAG,Student,Teen,No
+19930121CAFAL,Student,Teen,No
+19930201NYAMA,Student,Teen,No
+19930201WARER,Student,Teen,Yes
+19930204GACLA,Nonstudent,Teen,No
+19930208DCWAW,Unknown,,No
+19930208MNMIM,Student,Teen,Yes
+19930222CAREL,Student,Teen,No
+19930226MAGLG,Student,Teen,Yes
+19930308VADOD,No Relation,Adult,No
+19930318GAHAH,Student,Teen,No
+19930325MOSUS,Student,Teen,No
+19930403CAGRS,Unknown,,No
+19930415MAFOA,No Relation,Adult,No
+19930416CAGRS,Unknown,,No
+19930416WAMOT,No Relation,Adult,Yes
+19930514TXNII,Student,Teen,No
+19930524PAUPP,Student,Teen,No
+19930527LAFRN,Student,Teen,No
+19930707CADOL,Student,Teen,No
+19930803NYTHN,Unknown,,No
+19930831GAHAA,Student,Teen,No
+19930901KSJUJ,Student,Teen,No
+19930902TXROD,Student,Teen,No
+19930916ILROC,Unknown,,No
+19930917ILDOD,Other Student,Teen,No
+19930917WYCES,No Relation,Adult,Yes
+19930925DCWEW,Nonstudent Using Athletic Facilities/Attending Game,Adult,No
+19930925DCWEW,Nonstudent Using Athletic Facilities/Attending Game,Teen,No
+19930928MSCOG,Student,Teen,No
+19931012DEDON,Student,Teen,Yes
+19931018DCJHW,Student,Teen,No
+19931101ILSUC,Student,Teen,No
+19931104CTNEN,Unknown,Teen,No
+19931104FLTEJ,Student,Teen,No
+19931104MSBAB,Unknown,,No
+19931111ILRIS,Unknown,,No
+19931201WIWAW,Former Student,,No
+19931202CTNEN,Unknown,,No
+19931208GABES,Nonstudent,Teen,No
+19931215CACHS,Student,Teen,No
+19931217MICHC,Teacher,Teen,No
+19940120CALOH,Student,Teen,No
+19940121TXKEK,Student,Teen,Yes
+19940124SCEAC,Student,Teen,No
+19940126DCELW,Unknown,,No
+19940126DCPAW,Unknown,Teen,No
+19940127CAWAS,No Relation,Adult,No
+19940131WAWHS,Former Student,Adult,No
+19940208MIOSD,Unknown,,No
+19940218SCSPS,Unknown,Adult,No
+19940301MOKEB,Intimate Relationship,Adult,No
+19940303ALENB,Student,Teen,No
+19940309DCEAW,Student,Teen,No
+19940315SCGOC,Student,Teen,No
+19940323WABAS,Unknown,Teen,No
+19940325GAETC,Student,Teen,Yes
+19940405TXMCA,Student,Teen,No
+19940408MDLAU,Student,Teen,No
+19940412MTMAB,Student,Child,No
+19940413CA49L,Student,Child,Yes
+19940419DCELW,Unknown,,No
+19940420INDIS,Student,Teen,No
+19940421TNJTN,Student,Teen,No
+19940502FLNON,Student,Teen,No
+19940525INLAS,Student,Teen,No
+19940525NJLAW,Student,Teen,Yes
+19940526KYLAU,Student,Teen,No
+19940724PAMAM,Nonstudent Using Athletic Facilities/Attending Game,Teen,No
+19940725IAOTO,Student,Teen,No
+19940907CAHOL,Unknown,,No
+19940908NYSWA,Student,Teen,No
+19940919CALOL,Unknown,,No
+19940922ORLEL,Student,Teen,No
+19941012NCGRG,Student,Teen,Yes
+19941017ILHUC,Unknown,,No
+19941031CAALA,Student,Teen,No
+19941105CATHS,Unknown,Adult,No
+19941107OHWIW,Former Student,Adult,No
+19941108IAWEM,Student,Teen,No
+19941115WASTT,Student,Teen,Yes
+19950105DCCAW,Student,Teen,No
+19950110FLPAP,Student,Teen,Yes
+19950112WAGAS,Student,Teen,No
+19950123CASAR,Student,Teen,Yes
+19950124DCSPW,Rival School Student,Teen,No
+19950202CAJOL,Unknown,,No
+19950208NECHS,Student,Teen,No
+19950303MIPED,Unknown,,No
+19950327MIRED,Student,Teen,No
+19950614FLLAL,Former Student,Teen,No
+19950829TXMEL,Student,,No
+19950912TNCYM,Student,Teen,No
+19950914KSOLO,Rival School Student,Teen,No
+19950915KYGEW,Student,Teen,No
+19950927ALBLP,Relative,Teen,No
+19950929FLTAT,Student,Teen,No
+19951012SCBLB,Student,Teen,Yes
+19951023FLLAC,Student,Teen,No
+19951030VAJOR,Student,Teen,No
+19951102FLBLM,No Relation,Adult,Yes
+19951115TNRIL,Student,Teen,No
+19951128NYTHN,Unknown,,No
+19960102PAGIG,Unknown,Teen,Yes
+19960119DCWIW,Unknown,Teen,No
+19960126TNEAM,Nonstudent Using Athletic Facilities/Attending Game,Adult,No
+19960202WAFRM,Student,Teen,No
+19960208CAMIM,Student,Teen,Yes
+19960222GAJES,Student,Teen,No
+19960229MOBES,Hitman,,No
+19960311NCNON,Student,Teen,Yes
+19960319NVSWL,Student,Teen,No
+19960411ALTAT,Student,Teen,No
+19960415DCMCW,Unknown,,No
+19960514UTBIT,Student,Teen,Yes
+19960522CACOC,Former Student,Teen,No
+19960604CAWEH,Student,Teen,Yes
+19960726CAJOL,Student,Teen,No
+19960925GADED,Student,Teen,No
+19961002PASMP,Parent,Adult,No
+19961004CASTP,Student,Teen,No
+19961009ARJAS,Student,Teen,No
+19961014MOSUS,Student,Teen,No
+19961127CAHIS,Police Officer/SRO,,No
+19970108NYCRN,Rival School Student,Teen,No
+19970108NYCRN,Rival School Student,Teen,No
+19970108NYCRN,Rival School Student,,No
+19970127FLCOW,Student,Teen,No
+19970206MSWIJ,Student,Teen,No
+19970213NYMOB,Student,Teen,No
+19970213NYSAB,Student,Teen,No
+19970219AKBEB,Student,Teen,No
+19970220FLFIJ,Student,Teen,Yes
+19970221NVRAL,Unknown,Teen,No
+19970317MIPED,Student,Teen,No
+19970403CAMAM,Unknown,,No
+19970428CAJOL,Student,Teen,No
+19970430NYCIN,Unknown,,No
+19970513FLNOM,Student,Teen,No
+19970520OHDUD,Student,Teen,No
+19970624ALJEM,Student,Teen,No
+19971001MSPEP,Student,Teen,No
+19971005OKMOO,Unknown,,No
+19971010INWAG,Former Student,Teen,No
+19971014TXLAG,Student,Teen,Yes
+19971015FLLIP,Student,Teen,No
+19971020CAMCO,Unknown,,No
+19971022CAJON,Former Student,,Yes
+19971107FLRIJ,Student,Teen,No
+19971113CACRS,Relative,Adult,No
+19971201KYHEW,Student,Teen,No
+19971215ARSTS,Student,Teen,No
+19980212NJHOH,Intimate Relationship,Adult,Yes
+19980225MIRER,Student,Teen,Yes
+19980227VAMAF,Unknown,Teen,No
+19980324ARWEJ,Student,Child,No
+19980324ARWEJ,Student,Teen,No
+19980325CAFED,Student,Teen,No
+19980325MICOC,Student,Teen,Yes
+19980330NCGRC,Student,Teen,Yes
+19980331WIOAO,Student,Teen,No
+19980423CACUL,Unknown,,No
+19980424PAPAE,Student,Teen,No
+19980428CAPHP,No Relation,Teen,No
+19980428WIPAP,No Relation,Teen,No
+19980501FLNOM,Unknown,Teen,No
+19980501NYPUB,Police Officer/SRO,Adult,No
+19980519TNLIF,Student,Teen,No
+19980521CARIR,Student,Teen,Yes
+19980521ORTHS,Student,Teen,No
+19980521WAONO,Student,Teen,Yes
+19980527CAWAP,Unknown,,No
+19980529FLSTF,Intimate Relationship,Adult,Yes
+19980615VAARR,Student,Teen,No
+19980911CAHEG,Unknown,Teen,No
+19980930FLLEL,Student,Teen,No
+19980930FLNOM,Student,Teen,No
+19980930FLNOM,Student,Teen,No
+19981103PAMAP,No Relation,Teen,No
+19981103PAMAP,No Relation,Teen,No
+19981130NYHAH,Student,Teen,Yes
+19981203INERG,Parent,Adult,No
+19981211INBEI,Student,Teen,No
+19990108GACEC,Student,Teen,Yes
+19990108GACEC,Student,Teen,Yes
+19990114NYHAN,Unknown,Teen,No
+19990121TXRIN,Student,Teen,Yes
+19990211ILOME,Unknown,,No
+19990211MSJEP,Unknown,Adult,No
+19990304ILNIS,Nonstudent Using Athletic Facilities/Attending Game,Adult,Yes
+19990416IDNON,Student,Teen,No
+19990420COCOL,Student,Teen,Yes
+19990420COCOL,Student,Teen,Yes
+19990422GAMAA,Student,Teen,No
+19990422LASCB,Former Student,Teen,No
+19990520GAHEC,Student,Teen,No
+19990825GAJAM,Student,Teen,Yes
+19990909CASAS,Student,Teen,Yes
+19990927FLEGT,Unknown,,No
+19991004SDJOP,Student,Teen,No
+19991011NVCLL,Unknown,Teen,No
+19991021CASAP,Unknown,Teen,No
+19991026PAMAP,Former Student,Teen,No
+19991026WVGUB,Other Staff,Adult,Yes
+19991117TXDID,Student,Teen,No
+19991119NMDED,Student,Teen,No
+19991206OKFOF,Student,Teen,No
+20000110AKBAA,Student,Teen,No
+20000113NMALA,Rival School Student,Teen,No
+20000119FLRIN,Student,Teen,No
+20000120NCERA,Former Student,Teen,No
+20000126CAALM,Student,Teen,No
+20000126NESOO,Student,Teen,No
+20000210PAPEY,Student,Teen,No
+20000214ILDUC,Student,,No
+20000229MIBUF,Student,Child,No
+20000310GABES,Nonstudent Using Athletic Facilities/Attending Game,Teen,No
+20000323OHMCL,Student,Teen,No
+20000406OKHUH,Parent,Adult,No
+20000410AZLAT,Teacher,Adult,No
+20000502COTHD,Student,Teen,No
+20000510AZCAS,Intimate Relationship,Adult,Yes
+20000526FLLAL,Student,Teen,No
+20000717WADIR,Student,Teen,No
+20000726OHTIC,Student,Teen,No
+20000905OHBIB,Intimate Relationship,Adult,Yes
+20000907ILLOR,No Relation,Teen,No
+20000918OHMOM,Student,Teen,No
+20000926LACAN,Student,Teen,No
+20000926LACAN,Student,Teen,No
+20001005MNMIM,Nonstudent,,No
+20001024AZPIG,Former Student,Teen,No
+20001101TXNEC,Student,Teen,No
+20001201CAGRL,Student,Teen,Yes
+20001201CAJUS,Student,Teen,No
+20001207CARIR,Unknown,Teen,No
+20001221FLNOM,No Relation,Teen,No
+20010103CABAS,Student,Teen,No
+20010110CAHUO,Nonstudent,Teen,Yes
+20010117MDLAB,Unknown,Teen,No
+20010202MIOSD,Student,Teen,No
+20010302CAHOS,Student,Teen,Yes
+20010305CASAS,Student,Teen,No
+20010306MDLAL,Student,Teen,No
+20010307PABIW,Student,Teen,No
+20010307WAKEC,Student,Teen,No
+20010322CAGRE,Student,Teen,Yes
+20010330INLEG,Former Student,Teen,No
+20010402TXKLH,Student,Teen,Yes
+20010410WAWAM,Student,Teen,No
+20010420LAMOM,Student,Teen,No
+20010425OHJOC,Unknown,,No
+20010515TXENE,Student,Teen,Yes
+20010607TXOUA,Police Officer/SRO,Adult,No
+20010730CABEL,No Relation,,No
+20010912KYLAC,Parent,Adult,No
+20010921MDLAB,Student,Teen,No
+20011012UTTAT,Student,Teen,Yes
+20011026CARER,Student,Teen,No
+20011026MIBES,Student,Teen,No
+20011112MICAC,Former Student,Teen,Yes
+20011130TXFRF,Teacher,Adult,No
+20020111MSRAJ,Student,Teen,No
+20020115NYMAN,Student,Teen,No
+20020124PAOLO,Other Staff,Adult,No
+20020201TXBRB,Other Staff,Adult,No
+20020206CAGAL,Student,Teen,No
+20020207ILROC,Student,Teen,No
+20020322CAJOC,Student,Teen,No
+20020406MDLEB,Police Officer/SRO,Adult,No
+20020426LAABN,Security Guard,Adult,No
+20021004MTCMG,Relative,Teen,No
+20021004TXPAS,Student,Teen,Yes
+20021007MDBEB,No Relation,Teen,No
+20021029NJLIJ,Student,Teen,No
+20021107MOSTL,Parent,Adult,No
+20021115CAAML,Unknown,,No
+20021115TXSCS,Former Student,Teen,No
+20021202MIOSD,Student,Teen,No
+20021212WAWIC,Student,Teen,Yes
+20021216ILENC,Student,Teen,No
+20030121KYWEO,Student,,No
+20030130OKJEJ,Student,Teen,No
+20030205CORAW,Student,Teen,No
+20030318IACLG,Student,Teen,No
+20030321MSNOM,Student,Teen,Yes
+20030330CAROW,No Relation,Teen,No
+20030401DCCAW,Student,Teen,No
+20030414LAFAS,Student,Teen,No
+20030414LAJON,Rival School Student,Teen,No
+20030414LAJON,Rival School Student,Teen,No
+20030414LAJON,Rival School Student,Teen,No
+20030416TXGRA,Student,,Yes
+20030424PARER,Student,Teen,Yes
+20030513PAFOJ,Student,Teen,Yes
+20030604PAROW,Student,,Yes
+20030910MSVIV,No Relation,Teen,No
+20030917MACHB,Student,Teen,No
+20030917MDOKE,Student,Teen,No
+20030922WALES,Student,Teen,No
+20030924MNROC,Student,Teen,No
+20030925NCBUL,Student,Teen,No
+20031001CARIS,Police Officer/SRO,Teen,No
+20031007OHKEA,Student,Teen,No
+20031029LAMAM,Student,Teen,No
+20031030DCANW,Unknown,,No
+20031108TXHIS,Nonstudent Using Athletic Facilities/Attending Game,,No
+20031113NCEAC,Student,Teen,No
+20031202ILFEC,Police Officer/SRO,Adult,Yes
+20031204OKDOO,Student,Teen,No
+20031205ILCAC,Student,Teen,No
+20031217MDOLM,Unknown,,No
+20031222NJCOW,Nonstudent Using Athletic Facilities/Attending Game,Adult,No
+20031229FLABE,Unknown,Teen,No
+20040115CAPOP,Student,Teen,No
+20040121NVFAH,Intimate Relationship,Adult,Yes
+20040202DCBAW,Student,Teen,No
+20040203TXYOH,Student,,No
+20040206LAFAS,Police Officer/SRO,Adult,No
+20040209NYCOE,Student,Teen,No
+20040211PATMP,No Relation,Adult,No
+20040211PATMP,No Relation,,No
+20040213OHCOD,Student,Teen,No
+20040220LAGAS,Intimate Relationship,Adult,Yes
+20040305CASAL,Unknown,,No
+20040317WACRJ,Student,Teen,Yes
+20040504TXKAH,Unknown,Teen,No
+20040507MDRAR,Unknown,Teen,No
+20040507MDRAR,Student,,No
+20040512CAEAM,Gang Member,Teen,No
+20040524UTWES,Intimate Relationship,Adult,Yes
+20040609CACAO,Unknown,,No
+20040803ALHUB,Student,Teen,No
+20040824TNHAM,Student,Teen,No
+20040830ILPRM,No Relation,Adult,No
+20040912LABON,Unknown,Adult,No
+20040915INWIG,Student,Teen,No
+20041002NEJEG,No Relation,Teen,No
+20041007MANEN,Student,Teen,Yes
+20041012CALAS,No Relation,Adult,Yes
+20041012CALAS,No Relation,Adult,Yes
+20041015CABIB,Unknown,Teen,No
+20041021MDTHB,Student,Teen,No
+20041022CATYH,Unknown,,No
+20041115ALPAB,Nonstudent Using Athletic Facilities/Attending Game,Teen,No
+20041115INBRG,Parent,Adult,No
+20041115INBRG,Parent,Adult,No
+20041116SCBAB,Nonstudent Using Athletic Facilities/Attending Game,Teen,No
+20041117FLAPA,Student,Teen,No
+20041119FLTEJ,Student,Teen,No
+20041209WALAS,Student,Teen,Yes
+20041213LALAL,Unknown,,No
+20041231TXRIR,Other Staff,Adult,Yes
+20050105PAMUN,Unknown,Teen,No
+20050126ILWOP,Student,Teen,No
+20050204GAMCA,Relative,Teen,No
+20050208ILBOC,Student,Teen,No
+20050302TNSTD,Student,Teen,No
+20050309TNMAN,Former Student,Teen,No
+20050310TXZAD,Unknown,,No
+20050314OHLEC,Student,Child,No
+20050316PACAP,No Relation,,No
+20050317CALOL,No Relation,Teen,No
+20050317LAOPA,Student,,No
+20050321MNRER,Former Student,Teen,Yes
+20050321NYNEB,Student,Teen,No
+20050324TNFAM,Student,Teen,No
+20050330TNEAM,Student,Teen,No
+20050407TXCAC,Parent,Adult,No
+20050427LALER,Student,Teen,No
+20050429OHDAC,Unknown,Teen,No
+20050514TXBER,Rival School Student,Teen,No
+20050517PAHIL,Intimate Relationship,Adult,Yes
+20050520ILLOM,Former Student,Teen,No
+20050524COACD,Unknown,,No
+20050524LABOS,Student,Teen,No
+20050608NYARP,Student,Teen,No
+20050612NJBAA,No Relation,Adult,No
+20050718NJWEN,Relative,Adult,No
+20050816VICOE,No Relation,Adult,No
+20050816VICOE,No Relation,Adult,No
+20050817CAPLB,No Relation,Adult,No
+20050819GAMOM,Unknown,,No
+20050825TNMAD,Student,Teen,No
+20050901AKDIA,Student,Teen,No
+20050902FLSOJ,No Relation,,No
+20050913ILHAC,Student,Teen,No
+20050924MISAS,Unknown,,No
+20051011MIFAF,Student,Teen,No
+20051014NYSAN,Student,Teen,No
+20051019CASAS,Student,Teen,No
+20051020MISAS,Student,Teen,No
+20051027CABIF,No Relation,Adult,No
+20051028MDANA,Student,Teen,No
+20051028NYFAF,Unknown,,No
+20051108TNCAJ,Student,Teen,No
+20051115FLPAM,Student,Teen,No
+20051116TXIRS,Police Officer/SRO,Adult,No
+20051205MABOR,Student,Teen,No
+20051206CASAG,Unknown,,No
+20051206MICED,Nonstudent,,No
+20060103NJLIJ,Student,Teen,No
+20060110DEMOW,Student,Teen,No
+20060111WIMAM,Unknown,,No
+20060113ALPIP,Nonstudent Using Athletic Facilities/Attending Game,Teen,No
+20060113FLMIL,Student,Teen,Yes
+20060113MIOSD,Student,Teen,No
+20060118MTFRA,Student,Teen,No
+20060118TXPAA,Student,Teen,No
+20060118VAINC,Nonstudent,Teen,No
+20060119OHWIC,Nonstudent,Teen,No
+20060119OHWIC,Nonstudent,Teen,No
+20060123CAWIV,Student,Teen,No
+20060127TXLAG,Student,Teen,No
+20060130MTCMG,Student,Teen,Yes
+20060203CALOC,Student,Child,No
+20060209DEWIN,Nonstudent Using Athletic Facilities/Attending Game,,No
+20060215PAWEY,Teacher,Adult,Yes
+20060221PAWEP,No Relation,Adult,No
+20060223ORROR,Student,Teen,No
+20060310NYISN,Student,Teen,No
+20060310NYISN,Student,Teen,No
+20060314NVPIR,Student,Teen,No
+20060405DCROW,Unknown,,No
+20060418TXWEH,No Relation,,No
+20060424NCEAC,Student,Teen,No
+20060505FLPAM,Student,Teen,No
+20060522SCBUI,Student,Teen,No
+20060525PANON,Student,Teen,No
+20060605CAVEL,Unknown,,No
+20060606INWIG,Relative,Teen,No
+20060615MIPED,No Relation,Adult,No
+20060731FLYOT,Intimate Relationship,Adult,Yes
+20060815KYJTV,Student,Teen,No
+20060817TXMEA,No Relation,Teen,No
+20060817TXMEA,No Relation,Teen,No
+20060819OHSOY,Nonstudent Using Athletic Facilities/Attending Game,Adult,No
+20060820GALYH,Unknown,Teen,No
+20060821INCAN,Student,Teen,Yes
+20060824VTESE,Intimate Relationship,Adult,No
+20060829DCANW,Student,Teen,No
+20060830NCORH,Former Student,Teen,No
+20060831ALOXO,Nonstudent Using Athletic Facilities/Attending Game,,No
+20060905TNKIM,Parent,Adult,No
+20060908TXSOF,Police Officer/SRO,Adult,No
+20060913MOWEC,Student,Teen,No
+20060921DCCAW,Student,Teen,No
+20060927COPLB,Unknown,Adult,Yes
+20060929WIWEC,Student,Teen,No
+20061002PAWEN,No Relation,Adult,Yes
+20061009MOMEJ,Student,Teen,No
+20061010NYPOP,Student,Teen,No
+20061012MDGRB,Student,Child,No
+20061017TXSEK,Student,Teen,Yes
+20061031TNHAK,No Relation,Adult,No
+20061111CALIO,Nonstudent Using Athletic Facilities/Attending Game,Adult,No
+20061122GASAA,Unknown,,No
+20061201NCJOT,Nonstudent Using Athletic Facilities/Attending Game,Teen,No
+20061207NENOO,Student,Teen,No
+20061211ILCLC,Student,Teen,No
+20061212PASPS,Student,Teen,Yes
+20061213PABAB,Student,Teen,No
+20061214PAMCC,Student,Teen,Yes
+20070102NCWEF,Student,Teen,No
+20070103WAHET,Student,Teen,No
+20070104MINOD,Unknown,,No
+20070108OHROC,Student,Teen,No
+20070109CAGRV,Unknown,,No
+20070109NVWEL,No Relation,Adult,No
+20070118PAWIP,Student,Teen,No
+20070124TNHAS,Student,Teen,No
+20070131ILHIC,Nonstudent,,No
+20070207FLPAJ,Student,Teen,No
+20070208ORCRP,Student,Teen,Yes
+20070208TXSTP,Student,Teen,No
+20070226CASLA,Student,,No
+20070227GACLA,Student,Child,No
+20070307CACEC,No Relation,,No
+20070307MIHEM,Intimate Relationship,Teen,Yes
+20070307TXGRG,Student,Teen,Yes
+20070308TNEAC,Other Staff,Adult,No
+20070323FLUNO,Student,Child,No
+20070327CTSAH,Unknown,,No
+20070329SCMYM,Student,Teen,No
+20070410ILCHC,Student,Teen,No
+20070410ORSPG,Student,Teen,No
+20070418NCNOH,Student,Teen,Yes
+20070503OHGED,Unknown,Teen,No
+20070504TXTIE,Student,Teen,Yes
+20070510MIHED,Unknown,,No
+20070512TXWEM,Student,Teen,No
+20070515TXLIL,Student,Teen,No
+20070523RIOAC,Student,Child,No
+20070530NCVAG,Unknown,,No
+20070531NCNOG,Unknown,,No
+20070617SCBRB,No Relation,,No
+20070628TXDAD,Rival School Student,Teen,No
+20070709ILCAC,Unknown,,No
+20070804NJMON,Unknown,Teen,No
+20070928CALAO,Student,Teen,No
+20070930AZSSP,Unknown,Teen,No
+20071001CTPLM,Student,Teen,No
+20071010OHSUC,Student,Teen,Yes
+20071024TNMAM,Student,Teen,No
+20071105LAJOR,Student,Teen,Yes
+20071126NYHOH,Student,Teen,No
+20071221CABAU,No Relation,,No
+20080204TNHAM,Student,Teen,No
+20080211TNMIM,Student,Teen,No
+20080214CAEOO,Student,Teen,No
+20080306ALDAM,Student,Teen,Yes
+20080416CAROF,Police Officer/SRO,Adult,No
+20080516LAMAT,Student,Teen,Yes
+20080811WAWAK,No Relation,Adult,No
+20080814WALAF,Relative,Teen,No
+20080821TNCEK,Student,Teen,No
+20080902OHSOW,Student,Teen,No
+20080915CAMIS,Student,Teen,Yes
+20080919CAGEA,Unknown,,No
+20081016MIHED,Student,Teen,No
+20081020CAVAA,Student,Teen,Yes
+20081023ALPRP,Parent,Adult,No
+20081029CAELG,Student,Child,No
+20081031MESTS,No Relation,Adult,No
+20081103CABEB,Unknown,,No
+20081103CAELO,Unknown,,No
+20081112FLDIF,Student,Teen,No
+20081115COTHL,Student,Teen,No
+20081115UTDES,Student,Teen,No
+20081118CACEC,Student,Teen,No
+20081118CACOO,Student,Teen,No
+20081125TXNOH,Unknown,Teen,No
+20081130CAOAG,No Relation,Adult,No
+20081202CAKIK,Unknown,Teen,No
+20081205MNSHF,Teacher,Adult,Yes
+20081212NCGUA,Unknown,Teen,No
+20081212NYWIM,Unknown,Adult,No
+20081221SCSUS,Unknown,Adult,No
+20081222FLLAL,Unknown,Adult,Yes
+20081227PAWIP,Unknown,,No
+20081231GASHS,Unknown,Teen,No
+20081231OKKEN,Unknown,Adult,Yes
+20090108DEWIN,Police Officer/SRO,Adult,No
+20090109ILDUC,Student,Teen,No
+20090114ILPEC,Unknown,,No
+20090120ILCOC,Student,Teen,No
+20090120ILCOC,Student,Teen,No
+20090120MIBEM,Nonstudent Using Athletic Facilities/Attending Game,Teen,No
+20090120PAEAE,No Relation,Teen,No
+20090123ILCAC,Nonstudent Using Athletic Facilities/Attending Game,Teen,No
+20090127NCCLC,Nonstudent Using Athletic Facilities/Attending Game,Teen,No
+20090210CABAE,Student,Child,No
+20090211NCSCZ,Student,Child,No
+20090217MICED,Nonstudent,Teen,No
+20090217MICED,Nonstudent,Teen,No
+20090220CAJOH,Unknown,,No
+20090223CTBRN,Nonstudent,Teen,No
+20090302SDROS,Student,Child,No
+20090306NCWEF,Unknown,Teen,No
+20090310FLRIJ,Student,Teen,No
+20090310FLRIJ,Student,Teen,No
+20090311TXCYH,Student,Teen,No
+20090413CALOL,Unknown,,No
+20090501WISHS,Student,Teen,Yes
+20090505NYCAC,Student,Teen,Yes
+20090518LALAL,Student,Teen,Yes
+20090615CAINS,Unknown,,No
+20090624IAAPP,Former Student,Adult,No
+20090827NCWEF,Student,Teen,No
+20090908CTSTS,Student,Teen,No
+20090916VAVIG,Student,Teen,No
+20091008NYMAM,No Relation,Adult,No
+20091016SCCAC,Police Officer/SRO,Adult,No
+20091030CAWIL,Nonstudent Using Athletic Facilities/Attending Game,Teen,No
+20091106PAHAW,Student,Teen,No
+20091211LABOS,Intimate Relationship,Adult,No
+20100120ALLIL,Intimate Relationship,Adult,No
+20100205ALDIM,Student,Teen,No
+20100210TNINK,Teacher,Adult,No
+20100223CODEL,Former Student,Adult,No
+20100226WABIT,Intimate Relationship,Adult,No
+20100428VAWOP,Student,Teen,No
+20100518CASOS,Former Student,Teen,No
+20100830TNSUB,Relative,Adult,No
+20100908MIMUD,Student,Teen,No
+20100921SCSOC,Student,Teen,No
+20101001CAALS,Unknown,,No
+20101008CAKEC,No Relation,Adult,No
+20101023KSTOT,No Relation,Teen,No
+20101023KSTOT,No Relation,,No
+20101129WIMAM,Student,Teen,Yes
+20101206COAUA,Former Student,Adult,No
+20110104INCRC,Unknown,,No
+20110105NEMIO,Student,Teen,Yes
+20110118CAGAL,Student,Teen,No
+20110202CALOP,Other Staff,Adult,No
+20110325INMAM,Former Student,Teen,No
+20110330TXWOH,Rival School Student,Teen,No
+20110330TXWOH,Rival School Student,Teen,No
+20110330TXWOH,Unknown,,No
+20110413FLSHA,Unknown,Teen,No
+20110419TXBEH,Student,Child,No
+20110517WAHOE,Unknown,Teen,No
+20110523HIHIP,Student,Teen,No
+20110923WAISS,No Relation,Adult,Yes
+20110930NCGAC,Unknown,,No
+20110930ORWIP,Unknown,Teen,No
+20110930ORWIP,Unknown,Teen,No
+20111024NCCAF,Student,Teen,No
+20111212TXHAE,No Relation,Adult,No
+20111228MINOF,Unknown,Teen,No
+20111228MINOF,Unknown,Teen,No
+20120104TXCUB,Student,Child,Yes
+20120110TXNOH,Student,Teen,No
+20120210NHWAW,Student,Teen,No
+20120222WAARB,Student,Child,No
+20120227OHCHC,Student,Teen,No
+20120306FLEPJ,Former Teacher,Adult,Yes
+20120315ALLEM,Former Student,Teen,No
+20120401ARKIR,No Relation,Teen,No
+20120525AZWEA,Unknown,Adult,No
+20120525NCMAC,Parent,Adult,No
+20120706RINAP,No Relation,Teen,No
+20120816TNHAM,No Relation,Adult,No
+20120824GABAH,Student,Teen,Yes
+20120827MDPEP,Student,Teen,No
+20120907ILNON,Student,Teen,No
+20120926OKSTS,Student,Teen,Yes
+20121012NDFAF,Student,Teen,No
+20121019ILBAC,Unknown,Teen,No
+20121019ILBAC,Unknown,Teen,No
+20121210TXSPH,Student,Teen,No
+20121214CTSAN,Former Student,Teen,Yes
+20130107FLAPF,Unknown,,No
+20130110CATAT,Student,Teen,No
+20130111MIOSD,Nonstudent Using Athletic Facilities/Attending Game,Teen,No
+20130131GAPRA,Student,Teen,No
+20130201MIMAD,Unknown,Teen,Yes
+20130201MIMAD,Unknown,Teen,No
+20130213CAHIS,No Relation,Teen,No
+20130227GAGRA,Student,Teen,No
+20130321MIDAS,Student,Teen,Yes
+20130416TXTET,Student,Teen,Yes
+20130429OHLAC,Student,Teen,No
+20130430NMTUT,No Relation,Teen,Yes
+20130513ALOSB,Parent,Adult,No
+20130523FLREH,Student,Child,No
+20130618NCHIC,Unknown,Teen,No
+20130618NCHIC,Unknown,Teen,Yes
+20130619FLALW,Other Staff,Adult,No
+20130815TNNOC,No Relation,Adult,No
+20130820GAROD,No Relation,Teen,No
+20130822TNWEM,Student,Child,No
+20130823MSNOS,Nonstudent Using Athletic Facilities/Attending Game,,No
+20130823MSNOS,Nonstudent Using Athletic Facilities/Attending Game,Teen,No
+20130823MSNOS,Nonstudent Using Athletic Facilities/Attending Game,,No
+20130830NCCAW,Student,Teen,No
+20130927ILROC,No Relation,Teen,No
+20130928MENEG,No Relation,Teen,Yes
+20131002NHWIS,No Relation,Adult,No
+20131004FLAGP,No Relation,,No
+20131015TXLAA,Student,Teen,Yes
+20131021NVSPS,Student,,Yes
+20131023CANEC,Student,Child,No
+20131101IAALA,Former Student,Adult,Yes
+20131103GASTL,Student,Teen,No
+20131113PABRP,Student,Teen,No
+20131204FLWEW,Student,Teen,No
+20131213COARC,Student,Teen,Yes
+20131219CAEDF,Student,Teen,No
+20140109TNLIJ,Student,Teen,No
+20140113CTHIN,Nonstudent Using Athletic Facilities/Attending Game,Teen,No
+20140114LASTB,Unknown,Teen,No
+20140114NMBER,Student,Teen,No
+20140114PAKIL,Unknown,,No
+20140117PADEP,Student,Teen,No
+20140127ILREC,Student,Teen,No
+20140128HIPRH,Police Officer/SRO,Adult,No
+20140131AZCEP,No Relation,Teen,No
+20140131AZCEP,No Relation,Teen,No
+20140131IANOD,No Relation,Adult,No
+20140131IANOD,No Relation,Adult,No
+20140131IANOD,No Relation,Adult,No
+20140131IANOD,No Relation,Adult,No
+20140131IANOD,No Relation,Adult,No
+20140131IANOD,No Relation,Adult,No
+20140207ORBEB,Student,Teen,Yes
+20140210NCSAS,Nonstudent,Teen,No
+20140211OHCHL,Unknown,Teen,No
+20140220MIRAR,Parent,Adult,No
+20140307LAMAT,Unknown,Teen,No
+20140312FLACM,No Relation,Adult,No
+20140325GABEC,Student,Teen,No
+20140325GABEC,Student,Teen,No
+20140403NJUNN,No Relation,Adult,No
+20140409NCDHG,Rival School Student,Teen,No
+20140410OHLIC,No Relation,Adult,No
+20140411MIEAD,Unknown,,No
+20140421INSTG,Parent,Adult,Yes
+20140421UTPRP,Student,Teen,No
+20140503WAHOE,Nonstudent Using Athletic Facilities/Attending Game,,No
+20140514CAJOR,Unknown,,No
+20140521WICLM,No Relation,Teen,No
+20140610ORRET,Student,Teen,Yes
+20140623MOKEB,Student,Teen,No
+20140813MDHEF,Unknown,Teen,No
+20140813MDHEF,Unknown,,No
+20140814VASAN,Unknown,Teen,No
+20140909FLSTM,Student,Teen,No
+20140909FLSTM,Student,Teen,No
+20140909FLSTM,Student,Teen,No
+20140909FLSTM,Student,Teen,No
+20140909FLSTM,Student,Teen,No
+20140910FLGRL,Student,Teen,Yes
+20140911UTWET,Teacher,Adult,No
+20140919IANOD,Unknown,Teen,No
+20140925NHWEM,Former Student,,No
+20140930KYFEL,Student,Teen,No
+20140930NCALA,Student,Teen,No
+20141003GALAF,Student,Teen,No
+20141021TNAMM,Student,Teen,No
+20141024GALAA,Student,Teen,No
+20141024WAMAM,Student,Teen,Yes
+20141120FLMIM,Student,Teen,No
+20141212ORROP,Student,Teen,No
+20141216PASUP,Unknown,,No
+20141217MEBEW,Former Student,Adult,Yes
+20141217MIGOW,Unknown,,No
+20150115WIWIM,Parent,Adult,No
+20150116FLVAO,Student,Teen,No
+20150120ALWIM,Student,Teen,No
+20150122SCROH,Student,Teen,No
+20150126MNHAR,No Relation,Adult,Yes
+20150204MDFRF,Nonstudent Using Athletic Facilities/Attending Game,,No
+20150204MDFRF,Nonstudent Using Athletic Facilities/Attending Game,,No
+20150215ARLAL,Relative,Adult,No
+20150215CATEM,Unknown,Teen,No
+20150330MOPEU,No Relation,Adult,No
+20150417TXSES,Student,Teen,Yes
+20150422NVRUL,Student,Child,No
+20150427WANOL,Student,Teen,No
+20150428MDDRW,No Relation,,No
+20150504OHWIC,Unknown,,No
+20150505GACOC,Student,Teen,No
+20150512AZCOT,Student,Teen,Yes
+20150512FLUNJ,No Relation,,No
+20150520TXROR,Student,Teen,Yes
+20150524MISOF,Unknown,,No
+20150527FLEVE,No Relation,Adult,No
+20150604NCSOF,No Relation,Adult,No
+20150604NCSOF,No Relation,Adult,No
+20150623NEFOF,No Relation,Adult,No
+20150627CTSAH,Nonstudent Using Athletic Facilities/Attending Game,,No
+20150629TXJOS,Unknown,Adult,Yes
+20150705TXCOD,Nonstudent Using Athletic Facilities/Attending Game,Teen,No
+20150724TXELC,Unknown,Teen,No
+20150808TXPAP,Former Student,,No
+20150823TXWIR,No Relation,Teen,No
+20150825GAWSA,Student,Child,No
+20150903ORNEN,No Relation,Adult,No
+20150911LANOL,Unknown,,No
+20150922NCCES,Parent,Adult,No
+20150930SDHAH,Student,Teen,No
+20151015TXKAS,Friend,Adult,No
+20151024TXEDS,Unknown,,No
+20151105GAVEM,Student,Child,No
+20151111ARSUS,Student,Teen,No
+20151120FLNAM,Other Student,Teen,No
+20151204KSWEW,Student,Teen,No
+20160112DECED,Student,Teen,No
+20160113ARHAB,Student,Teen,No
+20160120INNOI,Unknown,Adult,No
+20160122INLAI,Student,Teen,No
+20160129PABEP,Student,Teen,No
+20160209MIMUM,No Relation,Adult,No
+20160212AZING,Student,Teen,Yes
+20160217FLROH,Other Staff,Adult,No
+20160217PACHC,Student,Teen,No
+20160226TXPAP,Parent,Adult,No
+20160229OHMAM,Student,Teen,No
+20160315ALHUB,Relative,Teen,No
+20160423WIANA,Former Student,Teen,Yes
+20160502TXKID,Student,Teen,No
+20160504COEAP,No Relation,Adult,Yes
+20160505MDHIB,Intimate Relationship,Adult,No
+20160506FLOSP,No Relation,Adult,No
+20160506IDROT,Student,Teen,No
+20160513SCSOG,Student,Teen,No
+20160515KSAUA,Relative,Adult,No
+20160608MAJED,No Relation,Adult,No
+20160608MAJED,No Relation,Adult,No
+20160616ILMCC,Unknown,,No
+20160630CAWOH,Unknown,,No
+20160725MOAVA,Former Student,Teen,Yes
+20160817OHWEC,No Relation,Adult,No
+20160819FLSOM,Nonstudent Using Athletic Facilities/Attending Game,,No
+20160902OKMCT,Unknown,Teen,No
+20160907MIDED,Unknown,,No
+20160908TXALA,Student,Teen,Yes
+20160909IACEC,Student,Teen,Yes
+20160909PASMY,Unknown,,No
+20160926MSTAJ,No Relation,Teen,No
+20160927OHELC,Unknown,,No
+20160928SCTOT,Former Student,Teen,No
+20160930ILCHC,Unknown,,No
+20161006TXDUF,Unknown,,No
+20161011ALVIM,Student,Teen,No
+20161013OHLIC,Unknown,Teen,No
+20161013OHLIC,Unknown,Teen,No
+20161015GABEA,Unknown,,No
+20161018CAJUS,Nonstudent,Teen,No
+20161018CAJUS,Nonstudent,Teen,No
+20161018CAJUS,Nonstudent,Teen,No
+20161018CAJUS,Nonstudent,Teen,No
+20161025UTUNS,Student,Teen,No
+20161102COGRG,Student,Teen,Yes
+20161103COBEB,Student,Teen,Yes
+20161111MIBAA,Police Officer/SRO,Adult,No
+20161117MNCRS,Student,Child,No
+20161201UTMUB,Student,Teen,No
+20161209MOBAS,Unknown,,No
+20161209NVHUR,Police Officer/SRO,Adult,No
+20170101DELAH,Unknown,Teen,No
+20170110ALALA,Student,Teen,No
+20170117FLFRE,Parent,Adult,No
+20170120OHWEW,Student,Teen,No
+20170127SCSOA,Unknown,Teen,No
+20170127SCSOA,Nonstudent Using Athletic Facilities/Attending Game,Teen,No
+20170206LASCB,Student,Teen,No
+20170218MNMAM,No Relation,Adult,Yes
+20170316ALROM,Student,Teen,No
+20170321CAKIK,No Relation,Teen,No
+20170328PALIP,Nonstudent Using Athletic Facilities/Attending Game,Teen,Yes
+20170328PALIP,Nonstudent Using Athletic Facilities/Attending Game,Adult,No
+20170410CANOS,Intimate Relationship,Adult,Yes
+20170415OKBOT,Unknown,,No
+20170515LAMOL,Student,Teen,No
+20170523TXKEK,Other Staff,Adult,Yes
+20170524ALGRG,Student,Teen,No
+20170524NEMCO,No Relation,Adult,No
+20170526OKMCT,Student,Teen,No
+20170616ILWAC,No Relation,Teen,No
+20170616ILWAC,No Relation,Teen,No
+20170616ILWAC,No Relation,Teen,No
+20170622SCWIF,Student,Teen,No
+20170719WIHIM,Unknown,Adult,No
+20170721UTSPS,Unknown,Teen,Yes
+20170801GABAV,Unknown,,No
+20170817GALIL,Teacher,Adult,No
+20170831CAARS,Nonstudent Using Athletic Facilities/Attending Game,,No
+20170908ARNON,Unknown,,No
+20170908OHCOC,Student,Teen,No
+20170913WAFRR,Student,Teen,No
+20170920ILMAM,Student,Teen,No
+20170928KYSOL,No Relation,Adult,No
+20170929CASUL,Unknown,,No
+20170929MOLEL,Student,Teen,Yes
+20170930PAPUC,Unknown,Adult,No
+20171012NCCHC,No Relation,Adult,No
+20171012NCCHC,No Relation,Adult,No
+20171014NCKEK,Parent,Adult,No
+20171020OHSTT,Unknown,,No
+20171027NYPRU,Unknown,,No
+20171103MIPAL,Unknown,,No
+20171109GABEC,Student,Teen,No
+20171110GALAM,Student,Child,No
+20171114CARAR,No Relation,Adult,Yes
+20171114FLLAM,Student,Teen,Yes
+20171117TNNOJ,Unknown,,No
+20171123COMAD,Unknown,,No
+20171123COMAD,Unknown,,No
+20171123COMAD,Unknown,,No
+20171128CABOS,No Relation,,No
+20171129OHBAL,No Relation,Adult,No
+20171130VASAV,Student,Teen,Yes
+20171207NMAZA,Former Student,,Yes
+20171209ILCHC,Unknown,,No
+20171211NCHIH,Unknown,Teen,No
+20171211NCHIH,Unknown,Teen,No
+20171212TXSAP,Relative,,No
+20171212TXSAP,Relative,Teen,No
+20171214TXELD,Student,Child,No
+20171219MIBEB,Unknown,,No
+20171227CALIL,Unknown,Adult,No
+20171231LAEDA,No Relation,Adult,No
+20171231WAPIM,No Relation,Teen,No
+20171231WAPIM,No Relation,Teen,No
+20180104WANES,Unknown,,No
+20180105IAFOF,No Relation,Adult,No
+20180109AZCOS,Student,Teen,Yes
+20180116VTMOM,No Relation,Adult,Yes
+20180122LANEN,Unknown,,No
+20180122TXITI,Student,Teen,No
+20180123KYMAB,Student,Teen,No
+20180125ALMUM,Student,Teen,No
+20180126MIDED,Rival School Student,Teen,No
+20180131PALIP,Unknown,,No
+20180131PALIP,Unknown,,No
+20180131PALIP,Unknown,,No
+20180201CASAL,Student,,No
+20180205MDOXO,Intimate Relationship,Teen,No
+20180205MDOXO,Intimate Relationship,Teen,No
+20180205MNHAM,Student,Child,No
+20180208NYTHN,Student,Teen,No
+20180209TNPEN,Student,Teen,No
+20180214FLMAP,Former Student,Teen,No
+20180215FLNOC,Police Officer/SRO,Adult,No
+20180220OHJAM,Student,Teen,Yes
+20180226WAOAT,Student,Teen,No
+20180228GADAD,Teacher,Adult,No
+20180305MOKIC,Student,Teen,Yes
+20180307ALHUB,Student,Teen,No
+20180309KYFRL,Student,Teen,No
+20180313CASES,Police Officer/SRO,Adult,No
+20180313VAGEA,Police Officer/SRO,Adult,No
+20180316MTBIM,Police Officer/SRO,Adult,No
+20180319VADOP,No Relation,Adult,No
+20180320MDGRG,Student,Teen,Yes
+20180328MSEUE,Former Student,,No
+20180329KYJOE,Parent,Adult,Yes
+20180409NYGLG,Student,Teen,No
+20180412MORAR,Unknown,,No
+20180419MIJAJ,No Relation,,No
+20180420FLFOO,Former Student,Teen,No
+20180423GABEA,Intimate Relationship,,No
+20180503SDENW,Unknown,,No
+20180503TNWAW,Student,Teen,No
+20180505MIFOF,Police Officer/SRO,Adult,No
+20180511CAHIP,Former Student,Teen,No
+20180516ILDID,Student,Teen,No
+20180517MOCEK,Unknown,,No
+20180518GAMOA,Unknown,,No
+20180518TXSAS,Student,Teen,No
+20180521GABEG,No Relation,Adult,No
+20180525INNON,Student,Teen,No
+20180601TXMCM,Student,Teen,Yes
+20180615OHVAB,No Relation,Teen,No
+20180617ORGRP,Unknown,,No
+20180621TXSKD,Unknown,,No
+20180624MTSEM,Unknown,Teen,No
+20180625OHFUS,Unknown,Teen,No
+20180625OHFUS,Unknown,Teen,No
+20180701TNRAM,Unknown,,No
+20180703KSSUO,Other Staff,Adult,No
+20180711OHMIM,Unknown,Teen,No
+20180717WVHUH,Unknown,Adult,No
+20180719WAWEY,Unknown,,No
+20180804MDEDE,Unknown,,No
+20180809NJLAM,Unknown,,No
+20180811TNANN,Parent,Adult,No
+20180817FLPAW,Unknown,,No
+20180823ALALM,Unknown,,No
+20180824FLRAJ,Unknown,Teen,No
+20180824ILMEC,Unknown,,No
+20180828COCOD,Student,Teen,No
+20180829DETOD,Other Staff,Adult,No
+20180830MIOTG,Unknown,,No
+20180830NCVIC,Intimate Relationship,Adult,No
+20180831CABAS,Student,Teen,No
+20180831IANOE,Student,,No
+20180903NYLUN,Unknown,,No
+20180905RIPRP,Rival School Student,Teen,No
+20180907IAHED,Unknown,,No
+20180909CAGIG,Police Officer/SRO,Adult,No
+20180910ILCHC,Unknown,,No
+20180910TNFAM,No Relation,Adult,No
+20180911NVCAL,Rival School Student,Teen,No
+20180914FLBOB,Student,Teen,No
+20180914WAMAE,Unknown,,No
+20180917ALBLH,Student,Child,No
+20180920CACHL,Unknown,Teen,No
+20180920CACHL,Unknown,Teen,No
+20180920CAPOP,Unknown,Adult,Yes
+20180924GAAPB,Student,Teen,Yes
+20180924NCLAC,Unknown,,No
+20180924PACEP,Unknown,,No
+20180924PACEP,Unknown,,No
+20180926MDMAB,Student,Teen,No
+20180927TXHEC,Nonstudent Using Athletic Facilities/Attending Game,Adult,No
+20180928SDCHC,No Relation,Teen,No
+20181002ARCHL,Unknown,,No
+20181003AKDEA,Relative,Adult,No
+20181004ORJAP,Parent,Adult,No
+20181005TNHAB,Unknown,Teen,No
+20181005VALAN,Unknown,,No
+20181007VAVAH,Unknown,,No
+20181012MIBAB,Unknown,,No
+20181013TNMCN,Unknown,,No
+20181020GASHS,No Relation,Teen,No
+20181022CTDUB,No Relation,Teen,No
+20181023NHGOM,Unknown,,No
+20181025MICOD,Unknown,,No
+20181029NCBUM,Student,Teen,No
+20181104KYCRL,Unknown,Adult,No
+20181105SCACC,Student,,No
+20181108CACLS,No Relation,Adult,No
+20181108CACLS,No Relation,Adult,No
+20181109GAGAM,Student,Teen,No
+20181112MDEAE,Police Officer/SRO,,Yes
+20181120VASIP,Parent,Adult,No
+20181121MIPEP,No Relation,Adult,No
+20181122TXSKD,Unknown,Teen,No
+20181122WAMOD,Nonstudent Using Athletic Facilities/Attending Game,Adult,No
+20181124OHAFC,No Relation,Adult,No
+20181128PASTP,Unknown,,No
+20181210NYJEJ,Student,Teen,Yes
+20181211KYCAC,No Relation,,No
+20181213INDER,Former Student,Teen,Yes
+20181214MOWIK,Student,Teen,No
+20181218DEAIG,Unknown,,No
+20190107CACEB,Unknown,,No
+20190111ORCAE,Parent,Adult,No
+20190118ALCET,No Relation,Teen,No
+20190118MOHAS,Unknown,,No
+20190118NCSHD,No Relation,,No
+20190119KSLAO,No Relation,,No
+20190123LASOS,No Relation,Adult,No
+20190125ALDAM,Student,Teen,No
+20190125TNMAM,Unknown,Teen,No
+20190125TNMAM,Unknown,Teen,No
+20190130GAMIL,No Relation,Teen,No
+20190131TNMAM,Unknown,,No
+20190131TXATA,Student,Teen,No
+20190205MNMIM,No Relation,Adult,No
+20190208MDFRB,No Relation,Adult,No
+20190212MOCEK,Nonstudent Using Athletic Facilities/Attending Game,,No
+20190214NMV.R,Student,Teen,No
+20190217COEAA,Other Staff,Adult,No
+20190226ALROM,Student,Teen,No
+20190301KSHIM,No Relation,Adult,No
+20190313FLLAO,Student,Teen,Yes
+20190322ALBLB,Teacher,Adult,No
+20190327MSSVH,Unknown,,No
+20190401ARPRP,Student,Teen,No
+20190403COAUA,Other Staff,Adult,No
+20190403FLSAJ,No Relation,,No
+20190405WISTM,Other Staff,Adult,No
+20190407MAHOL,Unknown,,No
+20190410TXROH,No Relation,,No
+20190410TXROH,No Relation,,No
+20190417ILWAL,Student,Teen,Yes
+20190424ARCOC,Student,Teen,Yes
+20190425GAWYS,Unknown,,No
+20190426GACRF,Parent,Adult,No
+20190430FLWEW,Police Officer/SRO,Adult,No
+20190430VACDW,Student,Teen,No
+20190507COSTH,Student,Teen,No
+20190507COSTH,Student,Teen,No
+20190508ILSEC,No Relation,Teen,No
+20190517FLTEJ,Unknown,Teen,No
+20190517ORPAP,Student,Teen,No
+20190530DCHEW,No Relation,,No
+20190606ILGEC,Nonstudent Using Athletic Facilities/Attending Game,,No
+20190610ILMEW,No Relation,Teen,No
+20190610ILMEW,No Relation,Adult,No
+20190612DCHEW,No Relation,,No
+20190612PAJEE,No Relation,Teen,No
+20190612PAJEE,Intimate Relationship,Teen,No
+20190613NJTAW,Unknown,Adult,No
+20190621MICAF,Unknown,,No
+20190629COJAC,No Relation,,No
+20190701NYSCN,No Relation,Adult,No
+20190702AKWIA,Nonstudent Using Athletic Facilities/Attending Game,Adult,No
+20190711CTBUH,No Relation,Adult,No
+20190719CAMOS,Unknown,Teen,No
+20190808ALBLM,Parent,Adult,No
+20190815TNEAN,Rival School Student,Teen,No
+20190817GALAA,Student,Teen,No
+20190820PASAC,Parent,Adult,No
+20190823GAPEC,Unknown,Teen,No
+20190823MOPAS,Unknown,,No
+20190823MOROS,Unknown,,No
+20190824PAWIP,No Relation,,No
+20190827CAHOL,Unknown,,No
+20190827NYROR,Unknown,Adult,No
+20190830ALLAM,Student,Teen,No
+20190830NCKIK,Nonstudent Using Athletic Facilities/Attending Game,Teen,No
+20190830OHCET,Nonstudent Using Athletic Facilities/Attending Game,,No
+20190902MDNOB,No Relation,,No
+20190906ALCEC,Unknown,,No
+20190906PAMCJ,Unknown,Adult,No
+20190906PAWEM,Unknown,,No
+20190910SCSOA,Unknown,Teen,No
+20190912KSMAM,No Relation,Adult,No
+20190913UTGRW,No Relation,,No
+20190913VAETN,Unknown,,No
+20190914TXEAF,Relative,Adult,No
+20190916ILILK,No Relation,,No
+20190916VAPHH,No Relation,,No
+20190920PASIP,Unknown,,No
+20190927NCZEC,Unknown,,No
+20191002GASOA,Nonstudent Using Athletic Facilities/Attending Game,Adult,No
+20191008COSHS,Rival School Student,Teen,No
+20191008TXWEH,Student,,No
+20191009MAGRL,Unknown,,No
+20191009MAGRL,Unknown,,No
+20191011LARAR,Unknown,Teen,No
+20191015LAGEN,Unknown,,No
+20191018GACRS,Unknown,Teen,No
+20191018OHWOT,Unknown,,No
+20191022CARIS,Student,Teen,No
+20191027MDLAL,No Relation,Adult,No
+20191029NYNEN,Student,,No
+20191108CAEDS,Unknown,,No
+20191108TXROD,Unknown,,No
+20191111MDACB,Unknown,,No
+20191113CAESL,Police Officer/SRO,Adult,No
+20191114CASAS,Student,Teen,Yes
+20191115NJPLP,Nonstudent Using Athletic Facilities/Attending Game,Adult,No
+20191121ILRIO,Student,Teen,No
+20191124CASEU,No Relation,Teen,No
+20191124CASEU,No Relation,Teen,No
+20191125ILCAC,No Relation,,No
+20191126WASAV,Parent,Adult,Yes
+20191201ALMOM,No Relation,Adult,No
+20191202WIWAW,Student,Teen,No
+20191203WIOSO,Police Officer/SRO,Adult,No
+20191203WITHM,Student,Teen,No
+20191204NMPIL,Police Officer/SRO,Adult,No
+20191210ALDED,Intimate Relationship,Adult,No
+20191210KSJCK,Unknown,,No
+20191210NJSAJ,No Relation,Adult,No
+20191210NJSAJ,No Relation,Adult,No
+20191211INEVE,Unknown,,No
+20191211KSCHT,Unknown,,No
+20191213VAMAN,Student,Teen,No
+20191216CTCAN,No Relation,Adult,No
+20191219FLLEN,No Relation,Adult,No
+20191221LAWES,Nonstudent Using Athletic Facilities/Attending Game,Adult,No
+20191228MOMAS,No Relation,Teen,No
+20200107WASOK,Student,Teen,No
+20200107WASOK,Student,Teen,No
+20200108FLGLB,Unknown,,No
+20200110MSMCJ,Student,Teen,No
+20200111TXELD,Unknown,Teen,No
+20200114TXBEH,Student,Teen,No
+20200114TXPOM,Nonstudent Using Athletic Facilities/Attending Game,Teen,No
+20200114TXPOM,Nonstudent Using Athletic Facilities/Attending Game,Teen,No
+20200117MITHH,Parent,Adult,No
+20200117SCCAS,Student,Teen,Yes
+20200119TXNOF,No Relation,Adult,No
+20200119TXNOF,No Relation,Adult,No
+20200121ILLIC,Unknown,,No
+20200121NEPAL,Unknown,,No
+20200123CAOXO,No Relation,,No
+20200127WAROY,No Relation,Teen,No
+20200128NYMAQ,Student,Teen,No
+20200128TNWHM,Unknown,Teen,No
+20200128TXLUL,No Relation,Teen,No
+20200131CADEA,Unknown,Teen,No
+20200201TXHIH,No Relation,Adult,No
+20200203FLGEJ,No Relation,,No
+20200204LABEA,Nonstudent Using Athletic Facilities/Attending Game,Teen,No
+20200205NHSEC,Student,Teen,Yes
+20200212MOJOF,Parent,Adult,No
+20200215DCDUW,Unknown,,No
+20200221NMCEA,Unknown,,No
+20200302TXNOF,Student,Teen,No
+20200305FLSAW,Security Guard,Adult,No
+20200310PASHN,Unknown,Adult,No
+20200313TNPIR,Police Officer/SRO,Adult,No
+20200315TXATH,Former Student,Teen,No
+20200318LABOS,Unknown,Teen,No
+20200324LAROM,No Relation,Adult,No
+20200324LAROM,No Relation,Adult,No
+20200324LAROM,No Relation,Adult,No
+20200330GANAS,No Relation,,No
+20200330GANAS,No Relation,,No
+20200413NEMOO,No Relation,,No
+20200505CAGOV,Unknown,,No
+20200515NCSTC,No Relation,Adult,No
+20200519VAWEM,No Relation,Teen,No
+20200522OHMIC,Unknown,,No
+20200525ALORM,No Relation,,No
+20200527OHLUC,No Relation,,Yes
+20200527OHLUC,No Relation,Adult,No
+20200603IAGAD,No Relation,Adult,No
+20200618INJOI,No Relation,,
+20200621INCOC,Unknown,Teen,No
+20200621INCOC,Unknown,Teen,No
+20200621INCOC,Unknown,Teen,No
+20200616FLTOM,No Relation,,No
+20200627VAHAS,Unknown,Teen,No
+20200714MIWID,No Relation,Adult,No
+20200701ILFRP,No Relation,Adult,No
+20200704INLAM,No Relation,Adult,No
+20200721SCBRO,Nonstudent Using Athletic Facilities/Attending Game,,No
+20200727AZCAO,Other Staff,Adult,Yes
+20200804PAKEP,No Relation,Adult,No
+20200729ILCOC,,Teen,No
+20200817MIABG,No Relation,Adult,No
+20200825MOWEC,No Relation,Adult,No
+19850418TNSOS,Student,Teen,No
+20190522OHSAC,No Relation,Teen,No
+20191115NJPLP,Nonstudent Using Athletic Facilities/Attending Game,Adult,No
+20200830TXLOD,No Relation,Teen,No
+20200904FLLOJ,No Relation,Adult,No
+20200903GADOA,No Relation,Adult,No
+20200630OHLAW,No Relation,Teen,No
+20200909TXSOH,No Relation,Adult,No
+20200910ILPEP,No Relation,Adult,No
+20191022NJBRB,Student,Teen,No
+20200916WAARG,No Relation,Adult,No
+20200915UTVIB,No Relation,Adult,Yes
+20200915SCYOR,,,No
+20200917OHELA,,Teen,No
+20200916CASOS,No Relation,Teen,No
+20200910OHSAC,No Relation,Adult,No
+20200920UTLIS,No Relation,,No
+20200918KYWIL,Nonstudent Using Athletic Facilities/Attending Game,,No
+20200917ORDRP,No Relation,,No
+20200919CAKRS,,,No
+20200921CAPLP,No Relation,Adult,No
+20200909PAWEW,No Relation,Adult,No
+20200923FLHIJ,No Relation,Teen,No
+20200923PAWIW,No Relation,Adult,No
+20200924ILMCS,No Relation,,No
+20200924CAWAC,No Relation,Adult,No
+20200924CAWAC,No Relation,Adult,No
+20200924CAWAC,No Relation,Adult,No
+20200928CTEAN,No Relation,Adult,No
+20200925ILROR,No Relation,Adult,No
+20190127NVRER,No Relation,Adult,No
+20200925NJHAH,No Relation,,No
+20150521FLDUJ,Student,Teen,No
+20190918MNFOC,Nonstudent Using Athletic Facilities/Attending Game,Adult,No
+20200930CADYL,No Relation,,No
+20130129ALDAM,No Relation,Adult,No
+20201005OKSOM,Student,Teen,No
+20201005ARKIH,,Adult,No
+20201005ARKIH,,,No
+20201009FLJEJ,Student,Teen,No
+20201012TXNOD,No Relation,Adult,No
+20161216FLSAJ,Student,Teen,No
+20190327FLMAJ,,,No
+20190927CADER,Student,Teen,No
+20190927CADER,Student,Teen,No
+20201013RIRHP,No Relation,,No
+20201012MNSHS,No Relation,,No
+20201014PABRB,Student,Child,No
+20201018KYSEL,,,No
+20201014WAWAS,No Relation,Adult,No
+20201014WAWAS,No Relation,Adult,No
+20201002PAMAE,,,No
+20201020ARJAP,,Teen,No
+20201026GARIR,No Relation,Adult,No
+20201028NYROR,No Relation,,No
+20201024CTSTS,,,No
+20201029FLLAM,No Relation,,No
+20201102COERE,,,No
+20201108INTET,No Relation,Adult,No
+20201109CABAL,No Relation,Adult,Yes
+20201109TXCOH,No Relation,,No
+20201106AZKHT,No Relation,Adult,No
+20201112PANAH,No Relation,Teen,No
+20201112CACEU,No Relation,Adult,No
+20160928TNSYP,Student,Teen,No
+20201113NCLIL,No Relation,,No
+20201116TNWIM,No Relation,Adult,No
+20201117TXWEW,Nonstudent,Teen,No
+20201117MTGRG,No Relation,Teen,No
+20201124NCHEH,Student,Teen,No
+20201125KSABG,No Relation,Adult,No
+20201207ILEAC,No Relation,,No
+20201211VATAY,Nonstudent Using Athletic Facilities/Attending Game,,No
+20201216ILDUC,No Relation,,No
+20191124CASEU,No Relation,Teen,No
+20201229WAROS,,,No
+20210114MDHIW,No Relation,,No
+20210110ILSOS,,,No
+20210121OHEAC,No Relation,Adult,No
+20210121OKLOG,Parent,Adult,No
+20210127FLHOH,Student,Teen,No
+20210127FLHOH,Student,Teen,No
+20210201MIMUD,Nonstudent Using Athletic Facilities/Attending Game,Teen,No
+19900906GASOC,Student,Teen,No
+20210205MDBEM,No Relation,,No
+20210208MISCG,No Relation,,No
+20201225FLYOP,,,No
+20210210TXFOF,No Relation,Teen,No
+20210210NJSCP,No Relation,,No
+20210210LASTS,No Relation,Adult,No
+20210214MNROM,No Relation,,No
+20210127MSHAH,,Teen,No
+20210216NCTHS,Student,Child,No
+20210216NCTHS,Student,Child,No
+20210217TNKNK,No Relation,Adult,No
+20210219ILLIR,No Relation,,No
+20210222CAHOV,No Relation,,No
+20210224WAGAY,No Relation,Teen,No
+20210226LAGEN,Nonstudent Using Athletic Facilities/Attending Game,Adult,No
+20210301ARWAP,Student,Teen,No
+20210308SCEDC,Relative,Adult,No
+20210309TNSAK,No Relation,,No
+20210311OHCIC,No Relation,Adult,No
+20210313TXLEA,Nonstudent Using Athletic Facilities/Attending Game,Adult,No
+20210318KYGRL,Parent,Adult,No
+20210319WVSPM,,Teen,No
+20210319WVSPM,,Teen,No
+20210210TXFOF,No Relation,Teen,No
+20210324ORFOS,No Relation,Teen,No
+20180803IALIO,No Relation,Adult,No
+20180803IALIO,No Relation,Adult,No
+20180803IALIO,No Relation,Adult,Yes
+20210326MOCAS,No Relation,Adult,Yes
+20210327MAPEC,Nonstudent Using Athletic Facilities/Attending Game,,No
+20210401OKCLC,,,No
+20210401ALSES,Student,Teen,No
+19790226CABAB,Student,Teen,No
+20210104NYPEJ,No Relation,Adult,No
+20210407ILPEP,Student,Teen,No
+20210315INMEM,No Relation,Teen,No
+20210315INMEM,No Relation,Teen,No
+20210406ILBAC,No Relation,Teen,No
+20210412TNAUK,Student,Teen,Yes
+20210411INBIH,No Relation,Adult,No
+20210412CASAS,No Relation,Adult,Yes
+20210413TNMAC,Parent,Adult,No
+20170415ORMEP,No Relation,Teen,No
+20210418OHWED,No Relation,,No
+20210420TXHAH,No Relation,Adult,No
+20210426MNPLP,Student,,No
+20210427TNLAM,Parent,Adult,No
+20210427DESMS,Parent,Adult,Yes
+20210429NYURB,Nonstudent,Teen,No
+20210429NYURB,Nonstudent,Teen,No
+20210429CAVIV,Nonstudent,Teen,No
+20210430INMAI,Parent,Adult,No
+20210501MNBES,No Relation,Adult,No
+20210501MNBES,No Relation,Adult,No
+20210501MNBES,No Relation,Adult,No
+20210502ILCHC,No Relation,Adult,No
+20210514CASAS,No Relation,Teen,No
+20210502ILCHC,No Relation,Adult,No
+20210506IDRIR,Student,Teen,No
+19890209IDRIR,Student,Teen,No
+20210506SCFOC,No Relation,Adult,No
+20210505MICRC,No Relation,Adult,No
+20210505SCWAW,Student,Teen,Yes
+20210514CASAS,No Relation,Teen,No
+20210511CAVEL,No Relation,,No
+20210517TNAUM,No Relation,Adult,No
+20210517MDLOC,Relative,Teen,No
+20210517MDLOC,Relative,Teen,No
+20210511NYPSB,Student,Teen,No
+20210525NJPAP,No Relation,Teen,No
+20210601ILLIC,,Teen,No
+20210606VADRA,No Relation,,No
+20210606VADRA,No Relation,,No
+20210607TXEAF,,,No
+20210608KSHAK,No Relation,Teen,No
+20210609TXNOH,Student,Teen,No
+20210609VAWIR,Student,Teen,No
+20210610CTHOW,No Relation,Adult,No
+20210610CTHOW,No Relation,Adult,No
+20210612MOMCF,Student,Teen,No
+20210613PAWIP,Nonstudent Using Athletic Facilities/Attending Game,,No
+20210613PAPAC,No Relation,Adult,No
+20210614TXEAF,,,No
+20210614NCRJW,No Relation,Adult,Yes
+20210614NCROR,,,No
+20210614NCROR,,,No
+20210614NCROR,,,No
+20210620CAGRM,Security Guard,Adult,No
+20210624ILABR,,Adult,No
+20210608KSHAK,,Teen,No
+20210608PAMUS,No Relation,Teen,No
+20210628CASLF,No Relation,Adult,No
+20210704NYDRR,,,No
+20210708ILBEC,No Relation,Adult,No
+20210709KSCAW,No Relation,Adult,Yes
+20210718ARFOL,Nonstudent Using Athletic Facilities/Attending Game,Adult,No
+20210719TXCAC,Student,Teen,No
+20210721ILTHC,No Relation,,No
+20210727WATYS,Nonstudent Using Athletic Facilities/Attending Game,Adult,No
+20210420TXHAH,No Relation,Adult,No
+20210517TXBRE,Student,Teen,No
+20210804ALBUM,,,No
+20210806LASTH,No Relation,Teen,No
+20210807ORGIP,,,No
+20210805GACHD,Teacher,Adult,No
+20210811COMAC,No Relation,,No
+20210810OHEAC,Former Student,,No
+20210812CANOS,Student,Teen,No
+20210812GALIL,Police Officer/SRO,,
+20210813NMWAA,Student,Teen,No
+20210811CAOAO,,,No
+20210813GACAS,,,No
+20210814ILMAC,No Relation,,No
+20180425NMHIA,Parent,Adult,No
+20210814SCDAH,,,No
+20210818SCORO,Student,Teen,No
+20210817COYED,No Relation,Teen,No
+20210815VAROD,No Relation,,No
+20210820NEMIO,No Relation,Adult,No
+20210820CACEF,Nonstudent Using Athletic Facilities/Attending Game,Teen,No
+20210822ILWER,No Relation,Teen,No
+20170813NYHUH,No Relation,Adult,No
+20210901NCMTW,Student,Teen,No
+20210830NCNEW,Student,Teen,No
+20210827INHAH,Former Student,Teen,No
+20210826OHNOT,Nonstudent Using Athletic Facilities/Attending Game,Adult,No
+20210826NYHAH,,Adult,No
+20210828CASAS,,,No
+20210902ARLIL,Parent,Adult,No
+20210907PAHAH,Student,Teen,No
+20210907TNLAL,Student,Teen,No
+20210907MAOMG,No Relation,Teen,No
+20210907MAOMG,No Relation,Teen,No
+20210908MNPRB,No Relation,,No
+20210908MNPRB,No Relation,,No
+20210908MNPRB,No Relation,,No
+20210909ILCHC,No Relation,Adult,No
+20210909MITRF,Student,Teen,No
+20210902INWEG,,Teen,No
+20210903CAMTH,Student,Teen,No
+20210909NCSHE,,,No
+20210910CONOA,Nonstudent Using Athletic Facilities/Attending Game,,No
+20210910CASTP,No Relation,Adult,No
+20210903NVDEL,Nonstudent Using Athletic Facilities/Attending Game,Adult,No
+20210901ILFRC,No Relation,,No
+20210827VTEDB,,,No
+20210826WAAKS,Former Student,Teen,No
+20210826WAAKS,Former Student,Teen,No
+20210827KYAPO,Nonstudent Using Athletic Facilities/Attending Game,Adult,No
+20030410CAWAW,Student,Teen,Yes
+20210915KYMAL,No Relation,Adult,No
+20210915ILCEC,Student,Teen,No
+20210908ILCEC,Student,Teen,No
+20210916WIORM,No Relation,Adult,No
+20210916UTPRP,Student,Teen,No
+20210917NCPAW,,Teen,No
+20210917VAHEH,,,No
+20210917PAWEP,,Teen,No
+20210917GASWS,,,No
+20210918COWIC,,,No
+20210917TNAUK,,,No
+20210914MOMCH,Parent,Adult,No
+20210914MOMCH,Parent,Adult,No
+20210914TNLAL,Student,Teen,No
+20210913SCEDC,Relative,Adult,No
+20210903CAMTH,Student,Teen,No
+20210920OHEAC,No Relation,,No
+20210920OHEAC,No Relation,,No
+20210916OHBEC,,,No
+20210921GAFRA,Parent,Adult,No
+20210921PAVAP,,,No
+20210920VAHEN,Student,Teen,No
+20210921OHMIM,,,No
+20210921KSEAW,Student,Teen,No
+20210922NYSOB,,,No
+20210922CTLIN,No Relation,,No
+20210921FLLAL,,Minor,No
+20210915VASPS,Student,Child,No
+20210924MDWIB,No Relation,,No
+20210924ALFAF,,,No
+20210924VAESE,,,No
+20210903NCJUC,Nonstudent Using Athletic Facilities/Attending Game,,No
+20210903CABUB,Intimate Relationship,Adult,Yes
+20210927ILCAC,Student,Child,No
+20210827PAACS,Police Officer/SRO,,
+20210827PAACS,Police Officer/SRO,,
+20210827PAACS,Police Officer/SRO,,
+20210902GAWOS,No Relation,Adult,No
+20210902NMALA,Student,Teen,No
+20210902NMALA,Other Student,Teen,No
+20210928MESOS,,,No
+20210902CASAL,Student,Teen,No
+20210830FLOKW,Student,Teen,No
+20210830MDNEO,No Relation,Adult,No
+20210830NJWEN,,,No
+20210929OHSHS,Parent,Adult,No
+20210924TNSTS,Student,Teen,No
+20210924TNSTS,Student,Teen,No
+20210930TNCUM,Student,Teen,No
+20210827VAFRW,Student,Teen,No
+20210930MSNEN,Student,Child,No
+20190809NJWEN,No Relation,Teen,No
+20211001TXYEH,Former Student,Adult,No
+20211001INBEI,Nonstudent Using Athletic Facilities/Attending Game,Teen,No
+20211001NCSEF,,,No
+20211001NCNOD,,,No
+20211004PASCP,No Relation,Adult,No
+20211004OHWOT,,,No
+20211005NDHEH,Student,Teen,
+20211005NCGAC,Student,Teen,No
+20210923IDRIR,Student,Teen,No
+20211004ILLAC,,,No
+20211006TXTIA,Student,Teen,No
+20211007PAANP,,,No
+20211007DCWAW,Nonstudent Using Athletic Facilities/Attending Game,Teen,No
+20211007TXEAW,No Relation,,No
+20211012ILWEC,,,No
+20211012ARLIL,No Relation,,No
+20211007NCEAD,No Relation,Adult,Yes
+20211012OKUNT,Student,Teen,No
+20211013ILMCC,No Relation,,No
+20211008OKCOC,Student,Teen,No
+20211012MIELK,No Relation,,No
+20211015ALWIM,Nonstudent Using Athletic Facilities/Attending Game,Teen,No
+20211014MEREP,No Relation,,No
+20211013PACHD,Student,Child,No
+20211013PACHD,Student,Child,No
+20211015CAKEF,No Relation,Adult,No
+20211018PALIP,Relative,,No
+20211011ORROP,,,No
+20211017ARROR,No Relation,Adult,No
+20211021GABES,No Relation,Adult,No
+20211022PAPHP,Student,Teen,No
+20211021NYPSB,No Relation,Adult,No
+20210915ILCEC,Student,Teen,No
+20211026MSCAN,,,No
+20211026ILWIC,No Relation,Adult,No
+20211027SCCAS,Student,Teen,No
+20211030PASTM,Nonstudent Using Athletic Facilities/Attending Game,Adult,No
+19920530DCARW,,,No
+20211108NYTHB,Student,Teen,No
+19930912ALFAF,Nonstudent Using Athletic Facilities/Attending Game,,No
+19901110TXJUD,Nonstudent Using Athletic Facilities/Attending Game,,No
+20211109NMMEL,No Relation,Adult,Yes
+20211106FLOVO,Student,Teen,No
+19890901VASAV,Nonstudent Using Athletic Facilities/Attending Game,Teen,No
+19890901VASAV,Student,Teen,No
+20211110NYITI,No Relation,,No
+20210827PAACS,Student,Teen,No
+20210827PAACS,,Teen,No
+19871031SCANA,,,No
+20211115NYPOP,Student,Teen,No
+20211119COHIA,Student,Teen,No
+20211119COHIA,Student,Teen,No
+20211116FLJAJ,No Relation,Adult,No
+20211119COHIA,Student,Teen,No
+20211119MDGIB,No Relation,,No
+20211116NYPSB,No Relation,Adult,No
+20211124ILTHH,,,No
+20211123OHCLC,No Relation,Adult,No
+20211126CAWES,Nonstudent Using Athletic Facilities/Attending Game,Adult,No
+20211129AZCHP,Student,Teen,No
+20211130MIOXO,Student,Teen,No
+20211130OHWHW,,Teen,No
+20211125SCCEP,,,No
+20211202WAGAS,,Teen,No
+20211201TXSAP,No Relation,,No
+20211130TNHUH,Nonstudent Using Athletic Facilities/Attending Game,,No
+20211130CALOL,No Relation,,No
+20211102NMHIH,Student,,No
+20211102NMHIH,Student,,No
+20211206CAWIW,No Relation,Adult,No
+20211206CAWIW,No Relation,Adult,No
+20211203ARBLB,No Relation,Teen,No
+20211208MOEWK,,,No
+20211207ILHAC,No Relation,Adult,No
+20211208KYSTL,No Relation,,No
+20211206NYSUS,Student,Teen,No
+20211210NCJEC,No Relation,,No
+20211210NCJEC,No Relation,,No
+20211209NYGRN,No Relation,Adult,No
+20211210OHCAC,No Relation,Adult,No
+20211211GAJOG,Student,Teen,No
+20211211FLEDL,Nonstudent Using Athletic Facilities/Attending Game,Adult,No
+20211213NCWEC,Student,Teen,No
+20211212NYSCR,No Relation,,No
+20211213FLEAO,Student,Teen,No
+20211214VAMEN,Rival School Student,Teen,No
+20211214WISOM,Student,Teen,No
+20211129ILWER,Student,Teen,No
+20211216SCEAC,Student,Teen,No
+20211216NYPSB,No Relation,Adult,No
+20200419NCABR,No Relation,Adult,No
+20211217TXWOD,Student,Teen,No
+20211119COHIA,Student,Teen,No
+19930108PACRM,,,No
+19930203SCGAC,,,No
+19930203SCLEL,Student,Adult,No
+19920117SCGRG,Student,Teen,No
+20211229NCCAS,Student,Teen,No
+20211229NCCAS,Student,Teen,No
+19920930CAPAL,Gang Member,Teen,No
+20220103WACHP,No Relation,Adult,No
+20220104ILAUR,Student,Teen,No
+20220104ILAUR,Student,Teen,No
+20220103OHCOC,No Relation,,No
+20220106CAFLS,Student,Teen,No
+20220111NMVAA,,,No
+20170127ILSCN,No Relation,,No
+20220117TXPYH,No Relation,Adult,No
+20220117TXPYH,No Relation,Adult,No
+20220117TXPYH,No Relation,Adult,No
+20220119FLSES,Student,Teen,No
+20220119VAMAP,,Teen,No
+20220119VAMAP,,Teen,No
+20220119VAMAP,,Teen,No
+20220119PAPIP,,,No
+20220119PAPIP,,,No
+20220119DCANW,No Relation,Adult,No
+20220121MDMAR,Student,Teen,No
+20220127TXMOH,No Relation,Adult,No
+20220126PABAP,,,No
+20220114MDGAG,No Relation,Adult,No
+20220129WIBEB,,Adult,No
+20220124NVSUL,,,No
+20220121GAMCA,Student,Teen,No
+20220201MNSOR,Student,Teen,No
+20220201WIRUM,Nonstudent Using Athletic Facilities/Attending Game,Adult,No
+20220128LACAM,No Relation,Adult,No
+20220201MNSOR,Student,Teen,No
+20220202KYLOR,,,No
+20220204GASOD,Student,Teen,No
+20220204ALWEB,,,No
+20220208MDCAC,Student,Teen,No
+20220208NYMOM,,,No
+20220209NYMCB,Student,Teen,No
+20220209MNMIM,No Relation,Adult,No
+20220203NCSPS,,,No
+20220211DCEAW,,,No
+20220201ILALC,No Relation,Adult,No
+20220217WAMCG,Gang Member,Adult,No
+20220219VACAC,,,No
+20220218MATET,Rival School Student,Teen,No
+20220218MATET,Rival School Student,Teen,No
+20220218MATET,Rival School Student,Teen,No
+20220218MATET,Rival School Student,Teen,No
+20220220OKWIW,,Adult,No
+20220221MDJOH,No Relation,Adult,No
+20220220MSMCM,,Teen,No
+20220222COLIP,Police Officer/SRO,,
+20220225NMWEA,Student,Teen,No
+20220225ALSOH,Student,Child,No
+20220223VAWOW,,,No
+20220222TXALH,No Relation,Adult,No
+20220214FLLAL,,Adult,No
+20220227DCDUW,,,No
+20220228NYBOB,Student,Teen,No
+20220303MIJWL,,,No
+20220304KSOLO,Student,Teen,No
+20220307IAEAD,,Teen,No
+20220307IAEAD,,Teen,No
+20220307IAEAD,,Teen,No
+20220307IAEAD,,Teen,No
+20220307IAEAD,,,No
+20220307IAEAD,,Teen,No
+20220309TXNOH,Student,Teen,No
+20220309FLNOM,,Teen,No
+20220309FLNOM,,Teen,No
+20220310MDCOL,,Adult,No
+20220309NMESE,,,No
+20220310COROH,Student,Teen,No
+20220311OHFAP,No Relation,Adult,No
+20220311CADER,Student,Teen,No
+20220311OHMAM,,,No
+20220311WIJER,Student,Child,No
+20220310TNHAM,Parent,Adult,No
+20220315WAEIY,Student,Teen,No
+20220317AKREW,Student,Teen,No
+20220315MATEB,,Teen,No
+20220315MDPAB,,,No
+20220314CAKRP,Principal/Vice-Principal,Adult,Yes
+20220313PANEP,,,No
+20220316CALOR,Student,,No
+20220318ILBAB,Student,Teen,No
+20220319ALCEL,No Relation,Adult,No
+20220315GAFOF,No Relation,Adult,No
+20220321MSLEP,No Relation,Adult,No
+20220321AZDES,No Relation,Adult,No
+20220322VAJAR,No Relation,Adult,No
+20220321MIMAK,Parent,Adult,No
+20220322TXWOD,Student,Teen,No
+20220318RICEP,Student,Teen,No
+20220318RICEP,Student,Teen,No
+20220322FLNEN,Student,Teen,No
+20220324VARIW,No Relation,Teen,No
+20220315MATEB,,Teen,No
+20220325TXROR,Student,Teen,No
+20220325TXROR,Student,Teen,No
+20220325TXROR,Student,Teen,No
+20220325TXROR,Student,Teen,No
+20220325TXROR,Student,Teen,No
+20220325TNBRM,No Relation,Adult,No
+20220325UTHIS,Student,Teen,No
+20220325UTHIS,No Relation,Adult,No
+20220328NCOAC,No Relation,Teen,No
+20220329NVWEL,Police Officer/SRO,Adult,No
+20220331SCTAG,Student,,No
+20220330GABOA,Parent,Adult,No
+20220331PAACP,Student,Child,No
+20220328TXNOF,,,No
+20220329VALUR,Student,Teen,No
+20220330AZKIK,Student,Teen,No
+20220405PAERE,Student,Minor,No
+20220406WVRIR,Student,Teen,No
+20220406ORROP,,,No
+20220410MALYL,No Relation,,No
+20220406WASTM,No Relation,,No
+20220411ARPIP,,Teen,No
+20220413MISHS,Student,Child,No
+20220414MSNEP,Rival School Student,Teen,No
+20220414MSNEP,Rival School Student,Teen,No
+20220414MSNEP,Rival School Student,Teen,No
+20220415VAGAW,,,No
+20220403INBLB,,Teen,No
+20220403INBLB,,Teen,No
+20220416IAMED,,Adult,No
+20220421NDMOM,Police Officer/SRO,,No
+20220422ORHOS,,Teen,No
+20220422DCEDW,No Relation,Adult,Yes
+20220424MOHAF,,Teen,No
+20220425WIWIM,,,No
+20220425WIWIM,,,No
+20220424MOHAF,,Teen,No
+20220426MIASI,Student,Child,Yes
+20220426GASOM,,,No
+20220426GASOM,,Adult,No
+20220427TXMOS,Police Officer/SRO,,
+20220427INCOS,Student,Child,No
+20220422CAMOR,,,No
+20220501OHHAC,,,No
+20220501VALOM,Nonstudent Using Athletic Facilities/Attending Game,Adult,No
+20220430PAMCJ,Nonstudent Using Athletic Facilities/Attending Game,Adult,No
+20220503CAARS,No Relation,,No
+20220505OHLOL,Student,Teen,Yes
+20220505OHLOL,Parent,Adult,No
+20220505ALDOD,No Relation,Teen,No
+20220509GARIS,No Relation,Adult,No
+20220509NYEDS,,Adult,No
+20220511FLJAJ,,,No
+20220512TXHEH,Student,Teen,No
+20220513FLALW,Police Officer/SRO,,
+20220512ARHOH,,Adult,No
+20220513GASOM,,,No
+20220515ILMEP,No Relation,Teen,No
+20220516TXMEM,Student,Teen,No
+20220517ILWAC,Student,Child,No
+20220517CASAS,No Relation,,No
+20220515NHBEB,No Relation,Teen,No
+20220515NHBEB,No Relation,Teen,No
+20220518FLPAP,Nonstudent Using Athletic Facilities/Attending Game,Teen,No
+20220518TNRIM,Former Student,Teen,No
+20220519MIEAK,Nonstudent,Teen,No
+20220519VAGER,,,No
+20220520ILSOP,No Relation,Adult,No
+20220520VAPOD,Student,Teen,No
+20220520TNEAC,No Relation,,No
+20220520OHCAC,Student,Teen,No
+20220519MIEAK,Nonstudent,Teen,No
+20220519MIEAK,,,No
+20220519MIEAK,,,No
+20220519MIEAK,,,No
+20220520ALMAT,No Relation,,No
+20220523PASIP,,,No
+20220524TXROU,,Teen,Yes
+20220524DCPOW,,,No
+20220526SCMEG,,,No
+20220524WIRIM,Student,Teen,No
+20220526TXDUA,Relative,Adult,No
+20220529ILDAC,,,No
+20220529ILDAC,,,No
+20220529ILDAC,,,No
+20220530CAHEL,No Relation,Adult,No
+20220531LAMON,,,No
+20220601CAULL,,,No
