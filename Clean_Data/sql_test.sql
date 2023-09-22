@@ -26,8 +26,3 @@ CREATE TABLE Weapon (
     Incident_ID VARCHAR,
     weapontype VARCHAR
 );
-
-SELECT * FROM Weapon;
-SELECT * FROM Incident;
-SELECT * FROM Victim;
-SELECT * FROM Shooter;
