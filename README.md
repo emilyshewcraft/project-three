@@ -36,9 +36,10 @@
 1. To what degree over time have school shooting incidents increased since 1970?
 2. How does the level of education (high, middle, elementary) affect the incident rate?
 3. Does the population of the area affect incident rates?
-4. Have changing political power structures affected the occurrence of these incidents over time?
-5. Has gun control legislation impacted the recurrence of school shootings?
-6. Do age and gender of the shooter impact the incident rate? What about age/gender of the victims?
+4. What is the most common type of weapon utilized in these incidents?
+5. Are the majority of these incidents targeted or randon shootings?
+6. Does the age of the shooter impact the incident rate? What about age of the victims?
+7. What is the most common outcome for the shooter? What about for the victims?
 
 -------------------------------------------------------------------------------
 
@@ -73,6 +74,55 @@ Slidedeck
 -------------------------------------------------------------------------------
 
 ## Analysis
+**To what degree over time have school shooting incidents increased since 1970?**
+* 
+
+![year_descending](Images/year.PNG)
+
+
+
+**How does the level of education (high, middle, elementary) affect the incident rate?**
+* 
+
+![school_level](Images/school_level.PNG)
+
+
+
+**Does the population of the area affect incident rates?**
+* 
+
+![states](Images/states.PNG)
+
+
+
+**What is the most common type of weapon utilized in these incidents?**
+* 
+
+![weapon](Images/weapon.PNG)
+
+
+
+**Are the majority of these incidents targeted or randon shootings?**
+* 
+
+![targets](Images/targets.PNG)
+
+
+
+**Does the age of the shooter impact the incident rate? What about age of the victims?**
+* 
+
+![shooter_age](Images/shooter_age.PNG)
+![victim_age](Images/victim_age.PNG)
+
+
+
+**What is the most common outcome for the shooter? What about for the victims?**
+*
+
+![shooter_outcome](Images/shooter_outcome.PNG)
+
+
 
 -------------------------------------------------------------------------------
 
