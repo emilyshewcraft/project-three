@@ -137,6 +137,18 @@ Slidedeck
 
 ### Conclusion
 
-Possible drawbacks-the COVID-19 pandemic may show skewed data due to lower in-person attendance rates 
+In choosing a dataset, our focus was to shed light on a serious issue in the United States-school shootings. We considered several datasets, but ended up utilizing the largest and most comprehensive so that we could analyize many different data factors. This dataset broke the information down into 4 overlapping categories: Incidents, Shooters, Victims, and Weapons (Datasets folder https://github.com/emilyshewcraft/project-three/tree/main/Datasets).
+
+We began by cleaning the data and drilling down into what questions we wanted to pose. This was done via Python, and we then exported the dataframes into organized CSVs (Clean_Data folder https://github.com/emilyshewcraft/project-three/tree/main/Clean_Data). After cleaning, we were able to use groupby to run additional analyses to answer our questions and support our map visualization.
+
+After cleaning the data, we were able to pull those CSVs into a MongoDB database-this code is included in the header markdown within the pymongo.ipynb file (Mongo-Flask folder https://github.com/emilyshewcraft/project-three/tree/main/Mongo-Flask). We were then able to use Flask API to parse that database and display the information in JSON format on a local host URL.
+
+Once the data was running on local host, we were able to call that information using the D3 JavaScript library. Leaflet was also used to create an interactive map to display the JSON-ified data, including legends, overlays, and markers. HTML and CSS files created the structure for the webpage. We also incorporated a Leaflet plugin that allows the user to print the visualization to an image file.
+
+Our analyses and visualization offered the same conclusions about our data. School shooting incidents appear to cluster around larger cities, where population is higher and more concentrated. These incidents have increased steadily over time, with a dramatic increase within the past 5-10 years. These incidents most commonly occur in a high school setting, where both shooters and victims are primarily teenagers (13-20 years old). The most common weapon utilized were handguns, which is also the most common weapon found in American households-and therefore the most easily accessible to teenage perpetrators.
+
+We must take time to highlight some factors that potentially skewed our results. We originally believe the COVID-19 pandemic would decrease the number of incidents due to virtual schooling, but the years post-COVID were also the most affected by school shootings. We also dropped a fair amount of interesting data when cleaning the information that could be useful in analyzing different aspects of these incidents. Finally, our limited comfort with JavaScript set boundaries to the features we were able to display in our map visualization.
+
+Even though there are some limiting factors, we still believe that our analyses of this dataset drew interesting conclusions. It is important to visualize the impact of these incidents, especially in the pursuit of legislative and cultural change. We hope this project inspires others to reflect, educate, and take action on this increasingly present issue in modern American society.
 
 -------------------------------------------------------------------------------
