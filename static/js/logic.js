@@ -4,6 +4,23 @@ let victim_url = "http://127.0.0.1:5000/victim";
 let shooter_url = "http://127.0.0.1:5000/shooter";
 let weapon_url = "http://127.0.0.1:5000/weapon";
 
+// Adding base map option
+let street = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+});
+let baseMaps = {
+    "Street": street,
+};
+
+// Creating the map object
+let myMap = L.map("map", {
+    center: [38.7128, -94.0059],
+    zoom: 5,
+    layers: [street]
+});  
+
+
+
 // INCIDENT LAYER
 d3.json(incident_url).then(function(response){
     console.log(response);
@@ -40,21 +57,7 @@ d3.json(incident_url).then(function(response){
         Incidents: markers
     };
 
-    // Adding base map option
-    let street = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-    });
-    let baseMaps = {
-        "Street": street,
-    };
-    
-    // Creating the map object
-    let myMap = L.map("map", {
-        center: [38.7128, -94.0059],
-        zoom: 5,
-        layers: [street, markers]
-    });  
-
+       
     L.control.layers(baseMaps, overlayMaps, {
         collapsed: false,
     }).addTo(myMap);  
@@ -65,6 +68,124 @@ d3.json(incident_url).then(function(response){
         let div = L.DomUtil.create("div", "info legend");
         let group = ["Elementary", "Middle", "Junior High", "High", "K-12", "K-8", "Other"];
         let category = ["Elementary", "Middle", "Junior High", "High", "K-12", "K-8", "Other"];
+        let labels = [];
+    
+        //Populate labels array
+        for (let i = 0; i < category.length; i++){
+            div.innerHTML +=
+            labels.push(
+                '<li style=\"background-color:' + markerColor(category[i]) + '\"></i>' + (group[i] ? group[i] : '+'));
+        }
+        div.innerHTML = '<ul style="list-style-type: none;">' + labels.join('<br>') + "</ul>";
+        return div;
+        };
+        legend.addTo(myMap);
+
+});
+
+
+// VICTIM LAYER
+d3.json(victim_url).then(function(response){
+    console.log(response);
+    let victimDataMarkers = [];
+
+    function markerColor(injury){
+        if (injury == "Minor Injuries") return "#FF9671";
+        else if (injury == "Wounded") return "#FF6F91";
+        else if (injury == "Fatal") return "#D65DB1";
+        else return "#F9F871";
+    }
+
+    // Setting datapoints 
+    for (let i = 0; i < response.length; i++){
+        let coordinates = [response[i].City_Lat, response[i].City_Lon];
+        //Populating the markers array
+        victimDataMarkers.push(
+            L.circleMarker(coordinates, {
+                weight: 0.5,
+                color: "white",
+                fillColor: markerColor(response[i].Injury),
+                radius: 7,
+                fillOpacity: 0.8
+            })//.bindPopup(`<strong>${response[i].City}</strong><br /><br />School: ${response[i].School}<br /><br />Date: ${response[i].Date}`)
+        );
+    }; 
+    
+    // Adding marker overlay
+    let victimMarkers = L.layerGroup(victimDataMarkers);
+    let overlayMaps = {
+        Victims: victimMarkers
+    };
+
+    L.control.layers(baseMaps, overlayMaps, {
+        collapsed: false,
+    }).addTo(myMap);  
+
+    // Creating the legend
+    let legend = L.control({position: "bottomright"});
+    legend.onAdd = function() {
+        let div = L.DomUtil.create("div", "info legend");
+        let group = ["Fatal", "Wounded", "Minor Injuries", "Other"];
+        let category = ["Fatal", "Wounded", "Minor Injuries", "Other"];
+        let labels = [];
+    
+        //Populate labels array
+        for (let i = 0; i < category.length; i++){
+            div.innerHTML +=
+            labels.push(
+                '<li style=\"background-color:' + markerColor(category[i]) + '\"></i>' + (group[i] ? group[i] : '+'));
+        }
+        div.innerHTML = '<ul style="list-style-type: none;">' + labels.join('<br>') + "</ul>";
+        return div;
+        };
+        legend.addTo(myMap);
+
+});
+
+// SHOOTER LAYER
+d3.json(shooter_url).then(function(response){
+    console.log(response);
+    let shooterDataMarkers = [];
+
+    function markerColor(age){
+        if (age == "Child") return "#FFC75F";
+        else if (age == "Minor") return "#FF9671";
+        else if (age == "Teen") return "#FF6F91";
+        else if (age == "Adult") return "#D65DB1";
+        else return "#F9F871";
+    }
+
+    // Setting datapoints 
+    for (let i = 0; i < response.length; i++){
+        let coordinates = [response[i].City_Lat, response[i].City_Lon];
+        //Populating the markers array
+        shooterDataMarkers.push(
+            L.circleMarker(coordinates, {
+                weight: 0.5,
+                color: "white",
+                fillColor: markerColor(response[i].age_cat),
+                radius: 7,
+                fillOpacity: 0.8
+            })//.bindPopup(`<strong>${response[i].City}</strong><br /><br />School: ${response[i].School}<br /><br />Date: ${response[i].Date}`)
+        );
+    }; 
+    
+    // Adding marker overlay
+    let shooterMarkers = L.layerGroup(shooterDataMarkers);
+    let overlayMaps = {
+        Shooters: shooterMarkers
+    };
+
+    L.control.layers(baseMaps, overlayMaps, {
+        collapsed: false,
+    }).addTo(myMap);  
+
+    // Creating the legend
+    let legend = L.control({position: "bottomright"});
+    legend.onAdd = function() {
+        let div = L.DomUtil.create("div", "info legend");
+        let group = ["Adult", "Teen", "Minor", "Child", "Other"];
+        let category = ["Adult", "Teen", "Minor", "Child", "Other"];
         let labels = [];
     
         //Populate labels array
