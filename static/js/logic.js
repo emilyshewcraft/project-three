@@ -16,7 +16,8 @@ let baseMaps = {
 let myMap = L.map("map", {
     center: [38.7128, -94.0059],
     zoom: 5,
-    layers: [street]
+    layers: [street],
+    preferCanvas: true
 });  
 
 L.DomEvent.on(document.getElementById('export-btn'), 'click', function() {
@@ -34,6 +35,7 @@ L.DomEvent.on(document.getElementById('export-btn'), 'click', function() {
 d3.json(shooter_url).then(function(response){
     console.log(response);
     let shooterDataMarkers = [];
+
 
     function markerColor(age){
         if (age == "Child") return "#FFC75F";
@@ -65,7 +67,7 @@ d3.json(shooter_url).then(function(response){
     };
 
     L.control.layers(baseMaps, overlayMaps, {
-        collapsed: false,
+        collapsed: false, 
     }).addTo(myMap);  
 
     // Creating the legend
