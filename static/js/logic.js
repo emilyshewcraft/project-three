@@ -54,7 +54,7 @@ d3.json(shooter_url).then(function(response){
                 fillColor: markerColor(response[i].age_cat),
                 radius: 7,
                 fillOpacity: 0.8
-            })//.bindPopup(`<strong>${response[i].City}</strong><br /><br />School: ${response[i].School}<br /><br />Date: ${response[i].Date}`)
+            }).bindPopup(`<strong>School Affiliation:</strong> ${response[i].schoolaffiliation}`)
         );
     }; 
     
@@ -112,7 +112,7 @@ d3.json(victim_url).then(function(response){
                 fillColor: markerColor(response[i].Injury),
                 radius: 7,
                 fillOpacity: 0.8
-            })//.bindPopup(`<strong>${response[i].City}</strong><br /><br />School: ${response[i].School}<br /><br />Date: ${response[i].Date}`)
+            }).bindPopup(`<strong>Age:</strong> ${response[i].Age}`)
         );
     }; 
     
@@ -141,6 +141,64 @@ d3.json(victim_url).then(function(response){
                 '<li style=\"background-color:' + markerColor(category[i]) + '\"></i>' + (group[i] ? group[i] : '+'));
         }
         div.innerHTML = '<ul style="list-style-type: none;"><strong>Vicitms</strong>' + labels.join('<br>') + "</ul>";
+        return div;
+        };
+        legend.addTo(myMap);
+
+});
+
+// WEAPON LAYER
+d3.json(weapon_url).then(function(response){
+    console.log(response);
+    let weaponDataMarkers = [];
+
+    function markerColor(injury){
+        if (injury == "Rifle") return "#FF9671";
+        else if (injury == "Shotgun") return "#FF6F91";
+        else if (injury == "Handgun") return "#D65DB1";
+        else return "#F9F871";
+    }
+
+    // Setting datapoints 
+    for (let i = 0; i < response.length; i++){
+        let coordinates = [response[i].City_Lat, response[i].City_Lon];
+        //Populating the markers array
+        weaponDataMarkers.push(
+            L.circleMarker(coordinates, {
+                weight: 0.5,
+                color: "white",
+                fillColor: markerColor(response[i].weapontype),
+                radius: 7,
+                fillOpacity: 0.8
+            })
+        );
+    }; 
+    
+    // Adding marker overlay
+    let weaponMarkers = L.layerGroup(weaponDataMarkers);
+    let weaponOverlay = {
+        Weapons: weaponMarkers
+    };
+
+    L.control.layers(baseMaps, weaponOverlay, {
+        collapsed: false,
+    }).addTo(myMap);  
+
+    // Creating the legend
+    let legend = L.control({position: "bottomright"});
+    legend.onAdd = function() {
+        let div = L.DomUtil.create("div", "info legend");
+        let group = ["Rifle", "Shotgun", "Handgun", "Other"];
+        let category = ["Rifle", "Shotgun", "Handgun", "Other"];
+        let labels = [];
+    
+        //Populate labels array
+        for (let i = 0; i < category.length; i++){
+            div.innerHTML +=
+            labels.push(
+                '<li style=\"background-color:' + markerColor(category[i]) + '\"></i>' + (group[i] ? group[i] : '+'));
+        }
+        div.innerHTML = '<ul style="list-style-type: none;"><strong>Weapons</strong>' + labels.join('<br>') + "</ul>";
         return div;
         };
         legend.addTo(myMap);
