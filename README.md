@@ -36,9 +36,9 @@
 1. To what degree over time have school shooting incidents increased since 1970?
 2. How does the level of education (high, middle, elementary) affect the incident rate?
 3. Does the population of the area affect incident rates?
-4. Have changing political power structures affected the occurrence of these incidents over time?
-5. Has gun control legislation impacted the recurrence of school shootings?
-6. Do age and gender of the shooter impact the incident rate? What about age/gender of the victims?
+4. ?
+5. Are the majority of these incidents targeted or randon shootings?
+6. Does the age of the shooter impact the incident rate? What about age of the victims?
 
 -------------------------------------------------------------------------------
 
