@@ -74,6 +74,10 @@ Slidedeck
 -------------------------------------------------------------------------------
 
 ## Analysis
+
+![map](Images/map.PNG)
+
+
 **To what degree over time have school shooting incidents increased since 1970?**
 * 
 
