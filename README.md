@@ -121,7 +121,7 @@ Slidedeck
 *
 
 ![shooter_outcome](Images/shooter_outcome.PNG)
-
+![victim_outcome](Images/victim_outcome.PNG)
 
 
 -------------------------------------------------------------------------------
