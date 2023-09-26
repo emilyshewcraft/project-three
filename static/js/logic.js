@@ -22,14 +22,13 @@ let myMap = L.map("map", {
 L.DomEvent.on(document.getElementById('export-btn'), 'click', function() {
     leafletImage(myMap, function(err, canvas) {
         var img = document.createElement('img');
-        var dimensions = map.getSize();
+        var dimensions = myMap.getSize();
         img.width = dimensions.x;
         img.height = dimensions.y;
         img.src = canvas.toDataURL();
         window.open("").document.write(img.outerHTML);
     });
 });
-
 
 // SHOOTER LAYER
 d3.json(shooter_url).then(function(response){
