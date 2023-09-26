@@ -8,27 +8,27 @@
 
 ## Team Members:
 * Emily Shewcraft
-* Dianna Rivera
 * Daniel Meyerowitz
 * Louis Ferrante
 * Callie Carlton
+* Dianna Rivera
 
 -------------------------------------------------------------------------------
 
 ## Project Description/Outline
 ### Data Collection and Analyses
-1. Import data found in Kaggle
-2. Clean and prepare data with ETL functions in Jupyter Notebook
-3. Compare variables to address research questions
-4. Store data in a SQL database
-5. Utilize Python Flask API to tie data to website
-6. Incorporate HTML/CSS code to build base site structure
-7. Create interactive visualizations using JavaScript code
+1. Imported data found in Kaggle
+2. Cleaned and prepared data (ETL) in Jupyter Notebook
+3. Compared variables to address research questions
+4. Stored data in Mongo database
+5. Utilized Python Flask API to tie data to local host
+6. Incorporated HTML/CSS code to build base site structure
+7. Created interactive map using JavaScript
 
 ### Presentation and Summarization 
-4. Create and present a formal visual presentation, including interactive visual elements
-5. Draft written analysis of the data
-6. Summarize conclusions
+4. Created and presented a formal visual presentation, including interactive visual elements
+5. Drafted written analysis of the data
+6. Summarized conclusions
 
 -------------------------------------------------------------------------------
 
@@ -50,21 +50,25 @@ K-12 School Shooting Database
 (https://k12ssdb.org/)
 
 Slidedeck
-(https://docs.google.com/presentation/d/1tKL6uN-uL0g0_6WM0vtvzGyeL-67J5bfYpWmnnQzj2o/edit#slide=id.p)
+(https://docs.google.com/presentation/d/1k8OorVZBVGKdkF2QtxJUzcMwhjrGBCUKHqja74yz8Vg/edit#slide=id.p)
 
 -------------------------------------------------------------------------------
 
 ## Task Delineation
-* Emily - Research, Project Proposal, Clean WEAPONS CSV
-* Callie - Research, Project Proposal, Clean VICTIM CSV
-* Daniel - Research, Project Proposal, Clean SHOOTER CSV
+* Emily - Research, project proposal, Clean WEAPONS CSV, dataset manipulation, Javascript layering, presentation
+* Callie - Research, project proposal, Clean VICTIM CSV, MongoDB/Flask, HTML/CSS/Javascript, presentation
+* Daniel - Research, project proposal, Clean SHOOTER CSV, dataset manipulation, data analysis, silde creation, presentation
+* Louis - Research, project proposal, dataset manipulation, data analysis, slide creation, presentation
 * Dianna - Research, Project Proposal, Clean INCIDENT CSV
-* Louis - Research, 
 
 -------------------------------------------------------------------------------
 
 ## Repository Table of Contents
 * "Datasets" folder containing the original CSV files
+* "Clean Data" folder containing ETL/analysis Jupyter Notebook files and cleaned CSVs
+* "Mongo-Flask" folder containing Mongo Jupyter Notebook and Flask Python files
+* "static" folder containing CSS and JavaScript code for visualization
+* "index" file containing HTML code for visualization 
 
 -------------------------------------------------------------------------------
 
